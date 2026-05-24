@@ -1,0 +1,2970 @@
+[
+  {
+    "questions": ["Hi", "Hello", "Hey", "Good day"],
+    "answer": "Hello! How can I help you?"
+  },
+  {
+    "questions": ["How are you?"],
+    "answer": "I'm here to assist you. How can I help?"
+  },
+  {
+    "questions": ["Goodbye", "Bye", "See you later", "Talk to you later"],
+    "answer": "Goodbye! Feel free to return if you need further assistance."
+  },
+  {
+    "questions": ["Who created you?", "Who is your developer?", "Who made you?"],
+    "answer": "I was created by Roshan Sinha."
+  },
+  {
+    "questions": ["What is your name?", "What should I call you?", "Who are you?", "What are you", "Introduce Yourself"],
+    "answer": "You can call me Mind Reader. I'm a university assistant chatbot."
+  },
+  {
+    "questions": ["How can I communicate with the university or contact my ward?"],
+    "answer": "You can communicate via official email, helpline, or by visiting the respective department. Parents receive regular updates through email and dedicated portals."
+  },
+  {
+    "questions": ["What are the communication channels for students and parents?"],
+    "answer": "Communication channels include official email, helpline numbers, department visits, and parent portals with regular updates."
+  },
+  {
+    "questions": ["What's up?", "How you doing?"],
+    "answer": "I'm ready to assist you with any questions or information you need."
+  },
+  {
+    "questions": ["Good morning", "Morning"],
+    "answer": "Good morning! How can I assist you today?"
+  },
+  {
+    "questions": ["Good afternoon", "Afternoon"],
+    "answer": "Good afternoon! How can I assist you today?"
+  },
+  {
+    "questions": ["Good evening", "Evening"],
+    "answer": "Good evening! How can I assist you today?"
+  },
+  {
+    "questions": ["Thank you", "Thanks"],
+    "answer": "You're welcome! Feel free to ask if you have more questions."
+  },
+  {
+    "questions": ["Sorry", "Apologies"],
+    "answer": "No problem! Let me know if you need any assistance."
+  },
+  {
+    "questions": ["What are the college timings?", "When is the college open?", "What are your hours of operation?"],
+    "answer": "The college is open from 8:00 AM to 5:00 PM, Monday to Saturday."
+  },
+  {
+    "questions": ["How can I contact the college?"],
+    "answer": "You can contact the college at +123456789 (helpline) or email info@university.edu."
+  },
+  {
+    "questions": ["What is the college telephone number?", "Can I get your contact number?"],
+    "answer": "The college helpline number is +123456789."
+  },
+  {
+    "questions": ["What courses are offered in the college?"],
+    "answer": "The college offers B.Tech in Computer Science, Mechanical, Civil, Electrical, Electronics & Communication; MBA in Finance, Marketing, HR; BBA; BCA; M.Tech in AI & Data Science, Structural Engineering."
+  },
+  {
+    "questions": ["Can you tell me about the available courses?"],
+    "answer": "Courses include B.Tech (various branches), M.Tech, MBA, BBA, and BCA."
+  },
+  {
+    "questions": ["What are the branches in the college?"],
+    "answer": "Engineering branches: Computer Science, Mechanical, Civil, Electrical, Electronics & Communication. Also Management and Computer Applications."
+  },
+  {
+    "questions": ["How much is the college fee?"],
+    "answer": "B.Tech: $10,000/year; M.Tech: $12,000/year; MBA: $15,000/year; BBA/BCA: $8,000/year. Hostel: $2,500/semester."
+  },
+  {
+    "questions": ["Tell me about the fees"],
+    "answer": "Fee structure: B.Tech $10k/yr, M.Tech $12k/yr, MBA $15k/yr, BBA/BCA $8k/yr, Hostel $2.5k/semester."
+  },
+  {
+    "questions": ["What are the hostel fees?"],
+    "answer": "Hostel fees are $2,500 per semester (approx. $5,000 per year)."
+  },
+  {
+    "questions": ["Where is the college located?"],
+    "answer": "The college is located at University Road, Anytown. You can find the exact location on Google Maps."
+  },
+  {
+    "questions": ["What is the college address?"],
+    "answer": "University Road, Anytown. Please check our website for the exact building details."
+  },
+  {
+    "questions": ["How can I reach the college?"],
+    "answer": "The college is accessible by local buses, taxis, and auto-rickshaws. The nearest railway station is Anytown Central (5 km away)."
+  },
+  {
+    "questions": ["Does the college provide hostel facilities?"],
+    "answer": "Yes, the college provides separate hostel facilities for boys and girls with mess, Wi-Fi, and 24/7 security."
+  },
+  {
+    "questions": ["Where is the hostel located?"],
+    "answer": "Hostels are located within the campus, a 5-minute walk from academic buildings."
+  },
+  {
+    "questions": ["What events are organized in the college?"],
+    "answer": "The college organizes annual tech fest, cultural fest, sports meets, guest lectures, and workshops. Check the website for upcoming events."
+  },
+  {
+    "questions": ["Are there any upcoming events?"],
+    "answer": "Please visit the college events page or notice board for the latest schedule."
+  },
+  {
+    "questions": ["Tell me about the college events."],
+    "answer": "Events include technical symposiums, hackathons, cultural nights, and industry seminars."
+  },
+  {
+    "questions": ["What is the admission process?"],
+    "answer": "Admission is based on 12th marks and entrance exam scores for B.Tech; graduation marks for M.Tech/MBA. Apply online through the college portal."
+  },
+  {
+    "questions": ["How can I take admission in the college?"],
+    "answer": "Submit online application, upload documents, pay fee, and appear for counseling if required."
+  },
+  {
+    "questions": ["Tell me about the admission criteria."],
+    "answer": "B.Tech: PCM in 12th + valid JEE/state entrance score. M.Tech: B.Tech with 60% + GATE. MBA: Graduation 50% + CAT/MAT."
+  },
+  {
+    "questions": ["Does the college have a library?"],
+    "answer": "Yes, the college has a central library with books, journals, and digital resources."
+  },
+  {
+    "questions": ["Where is the library located?"],
+    "answer": "The library is located in Block A, first floor."
+  },
+  {
+    "questions": ["What are the library timings?"],
+    "answer": "Library timings: 9:00 AM to 8:00 PM, Monday to Saturday. Closed on Sundays."
+  },
+  {
+    "questions": ["What facilities are available in the college?"],
+    "answer": "Facilities include a sports complex, modern labs, cafeteria, library, gym, and Wi-Fi campus."
+  },
+  {
+    "questions": ["Tell me about the college facilities."],
+    "answer": "The college provides well-equipped labs, a central library, indoor and outdoor sports grounds, a gym, and a multi-cuisine cafeteria."
+  },
+  {
+    "questions": ["Do you have a sports complex?"],
+    "answer": "Yes, the college has a sports complex with basketball, volleyball, badminton courts, and a cricket ground."
+  },
+  {
+    "questions": ["How are the placements in the college?"],
+    "answer": "The college has a good placement record with top recruiters like TCS, Infosys, Microsoft, and Amazon. Average package ~$60,000."
+  },
+  {
+    "questions": ["Tell me about the college placements."],
+    "answer": "Placement cell provides training, mock interviews, and campus drives. 85% of students get placed every year."
+  },
+  {
+    "questions": ["What is the placement record?"],
+    "answer": "Last year, 85% of eligible students were placed with the highest package of $120,000."
+  },
+  {
+    "questions": ["Why did you choose this school?"],
+    "answer": "Students choose this school for its academic reputation, experienced faculty, and diverse course offerings."
+  },
+  {
+    "questions": ["What made you decide to attend this college?"],
+    "answer": "The college's strong placement record, modern infrastructure, and supportive environment attract many students."
+  },
+  {
+    "questions": ["Are you happy here?"],
+    "answer": "As an AI, I don't have emotions, but students report high satisfaction with campus life and academics."
+  },
+  {
+    "questions": ["Do you enjoy being at this college?"],
+    "answer": "Student surveys show high levels of enjoyment and engagement in college activities."
+  },
+  {
+    "questions": ["What are your school's strengths?"],
+    "answer": "Strengths include quality education, supportive faculty, research opportunities, and vibrant extracurriculars."
+  },
+  {
+    "questions": ["What makes your college stand out?"],
+    "answer": "Our college excels in hands-on learning, industry connections, and a diverse, inclusive community."
+  },
+  {
+    "questions": ["What's your #1 complaint about your school?"],
+    "answer": "Feedback is always welcome. Some students suggest improvements in hostel amenities and parking space."
+  },
+  {
+    "questions": ["What do you think needs improvement in your college?"],
+    "answer": "The college continuously works on infrastructure, Wi-Fi coverage, and student support services."
+  },
+  {
+    "questions": ["What else could stand to be improved?"],
+    "answer": "Areas like cafeteria variety, lab equipment updates, and internship coordination are always being enhanced."
+  },
+  {
+    "questions": ["In which areas do you think your college can improve?"],
+    "answer": "The college is focusing on digital infrastructure, research funding, and international collaborations."
+  },
+  {
+    "questions": ["How accessible are administrators, registrars, financial aid officers, etc.?"],
+    "answer": "Administrative offices are open 9 AM to 4 PM on weekdays. You can also reach them via email or phone."
+  },
+  {
+    "questions": ["Can students easily reach out to college staff when needed?"],
+    "answer": "Yes, staff are accessible during office hours and respond to emails within 2 business days."
+  },
+  {
+    "questions": ["What majors are popular?"],
+    "answer": "Popular majors include Computer Science, Business Administration, Mechanical Engineering, and Data Science."
+  },
+  {
+    "questions": ["Which fields of study have a high enrollment?"],
+    "answer": "Computer Science, MBA, and Civil Engineering have the highest enrollment."
+  },
+  {
+    "questions": ["What are the most sought-after majors in your college?"],
+    "answer": "The most sought-after majors are B.Tech in CSE, MBA, and BCA."
+  },
+  {
+    "questions": ["What departments or programs have the best reputations?"],
+    "answer": "Computer Science, Mechanical Engineering, and Management Studies are highly reputed."
+  },
+  {
+    "questions": ["Which academic programs are well-regarded?"],
+    "answer": "Our AI & Data Science M.Tech and MBA programs are well-regarded by industry."
+  },
+  {
+    "questions": ["Are there any standout departments in your college?"],
+    "answer": "The CSE and Electronics departments have won several research grants and innovation awards."
+  },
+  {
+    "questions": ["What's your favorite class?"],
+    "answer": "Student preferences vary; many enjoy hands-on lab courses and project-based electives."
+  },
+  {
+    "questions": ["Which class do you enjoy the most?"],
+    "answer": "Popular choices include Machine Learning, Robotics, and Digital Marketing."
+  },
+  {
+    "questions": ["Do you have a favorite subject?"],
+    "answer": "It depends on individual interest – AI, Finance, or Structural Design are often liked."
+  },
+  {
+    "questions": ["Are your professors good teachers?"],
+    "answer": "Yes, our faculty are experienced, approachable, and use modern teaching methods."
+  },
+  {
+    "questions": ["How is the quality of teaching at your college?"],
+    "answer": "Teaching quality is high, with regular feedback and professional development for faculty."
+  },
+  {
+    "questions": ["Do you have experienced faculty?"],
+    "answer": "Most faculty hold Ph.D.s and have industry or research experience."
+  },
+  {
+    "questions": ["Do your professors hold office hours, and will they meet with you outside of class?"],
+    "answer": "Yes, professors hold weekly office hours and are available by appointment for extra help."
+  },
+  {
+    "questions": ["Are professors available for one-on-one meetings?"],
+    "answer": "Absolutely – you can schedule meetings via email or during office hours."
+  },
+  {
+    "questions": ["Can students easily meet with professors?"],
+    "answer": "Yes, professors encourage student interaction and are accessible on campus."
+  },
+  {
+    "questions": ["Are most of your classes taught by professors or teaching assistants?"],
+    "answer": "Most core classes are taught by professors. TAs assist in labs or discussion sessions."
+  },
+  {
+    "questions": ["Who primarily teaches the classes?"],
+    "answer": "Full-time faculty members teach the majority of courses."
+  },
+  {
+    "questions": ["Do you have a lot of classes taught by TAs?"],
+    "answer": "TAs only lead some tutorial or lab sections; lectures are by professors."
+  },
+  {
+    "questions": ["Were you able to take most of your first-choice classes?"],
+    "answer": "Most students get their preferred classes if they register early. Advising helps with planning."
+  },
+  {
+    "questions": ["Do students generally get their preferred classes?"],
+    "answer": "Yes, the college works to accommodate preferences; registration is first-come, first-served."
+  },
+  {
+    "questions": ["How likely are you to get into your desired classes?"],
+    "answer": "High likelihood, especially if you register during priority windows."
+  },
+  {
+    "questions": ["Are your classes lecture-based or discussion-based?"],
+    "answer": "It varies: introductory courses are lecture-based, while upper-level courses include discussions and projects."
+  },
+  {
+    "questions": ["How are the classes structured?"],
+    "answer": "Classes blend lectures, group work, case studies, and lab sessions depending on the subject."
+  },
+  {
+    "questions": ["What's the typical format of a class?"],
+    "answer": "Typical format: lecture (45 min), Q&A, and sometimes breakout activities or lab work."
+  },
+  {
+    "questions": ["How much reading and writing is required in your courses?"],
+    "answer": "A moderate amount – humanities courses have more reading/writing, while engineering focuses on problem sets."
+  },
+  {
+    "questions": ["Are there a lot of assignments involving reading and writing?"],
+    "answer": "Management and liberal arts courses involve essays and case studies; technical courses have lab reports."
+  },
+  {
+    "questions": ["Is there a heavy emphasis on written work?"],
+    "answer": "Not heavy; there is a balanced mix of exams, projects, and written reports."
+  },
+  {
+    "questions": ["How often are collaborative work or group presentations required?"],
+    "answer": "Group projects are common in management, design, and capstone courses – about 2-3 per semester."
+  },
+  {
+    "questions": ["Do you have a lot of group projects?"],
+    "answer": "Yes, especially in business and engineering design courses to build teamwork skills."
+  },
+  {
+    "questions": ["Is there an emphasis on teamwork?"],
+    "answer": "Teamwork is encouraged and often part of graded assignments."
+  },
+  {
+    "questions": ["How satisfied are you with academic advising?"],
+    "answer": "Most students find advisors helpful for course selection and degree planning."
+  },
+  {
+    "questions": ["Is the academic advising program helpful?"],
+    "answer": "Yes, advisors assist with major exploration, schedules, and graduation requirements."
+  },
+  {
+    "questions": ["Do advisors provide guidance for course selection?"],
+    "answer": "Absolutely. Advisors help you choose courses each semester to stay on track."
+  },
+  {
+    "questions": ["Do students use any on-campus tutoring programs or writing centers?"],
+    "answer": "Yes, tutoring and writing centers are widely used and free for students."
+  },
+  {
+    "questions": ["Are there resources available for academic support?"],
+    "answer": "We offer tutoring, writing workshops, math lab, and peer mentoring."
+  },
+  {
+    "questions": ["How can I get tutoring assistance?"],
+    "answer": "Visit the academic success center or book a tutor online through the student portal."
+  },
+  {
+    "questions": ["How big are your classes?"],
+    "answer": "Intro classes: 40-100 students; upper-level: 15-30 students."
+  },
+  {
+    "questions": ["Are the class sizes large or small?"],
+    "answer": "Moderate – large for intro courses, small for advanced electives."
+  },
+  {
+    "questions": ["Do you have small class sizes?"],
+    "answer": "Yes, many specialized courses and labs have small sizes (under 20)."
+  },
+  {
+    "questions": ["Does your major require an independent study or capstone project?"],
+    "answer": "Most majors require a capstone project or thesis in the final year."
+  },
+  {
+    "questions": ["Are there opportunities for independent research?"],
+    "answer": "Yes, students can collaborate with faculty on research projects for credit."
+  },
+  {
+    "questions": ["Is there a culminating project for your major?"],
+    "answer": "Yes, a final-year project or senior design is mandatory for engineering and management."
+  },
+  {
+    "questions": ["Are professors available for research with students?"],
+    "answer": "Many professors actively involve undergraduates in their research."
+  },
+  {
+    "questions": ["Can students engage in research projects with faculty?"],
+    "answer": "Yes, through directed study programs or summer research fellowships."
+  },
+  {
+    "questions": ["How can I get involved in research at your college?"],
+    "answer": "Approach a faculty member in your area of interest or apply to the undergraduate research program."
+  },
+  {
+    "questions": ["Is it popular to study abroad?"],
+    "answer": "Yes, around 30% of students study abroad for a semester or summer."
+  },
+  {
+    "questions": ["Are there study abroad programs available?"],
+    "answer": "Yes, we have partnerships with universities in Europe, Asia, and Australia."
+  },
+  {
+    "questions": ["Can students spend a semester abroad?"],
+    "answer": "Absolutely. Many students choose to spend a semester abroad."
+  },
+  {
+    "questions": ["What's it like to be a first-year student here?"],
+    "answer": "First-year students enjoy orientation, peer mentoring, and a supportive environment to transition smoothly."
+  },
+  {
+    "questions": ["Can you describe the first-year experience?"],
+    "answer": "It includes welcome week, academic advising, residential life, and many social events."
+  },
+  {
+    "questions": ["What should I expect as a freshman?"],
+    "answer": "Expect a mix of core courses, exploration of majors, and opportunities to join clubs."
+  },
+  {
+    "questions": ["What's a typical day like?"],
+    "answer": "A typical day includes 3-4 classes, meals in the cafeteria, study sessions, and co-curricular activities."
+  },
+  {
+    "questions": ["Can you describe a day in the life of a student?"],
+    "answer": "Morning classes, lunch break, afternoon labs or sports, evening study in the library, and club meetings."
+  },
+  {
+    "questions": ["What's the daily routine at your college?"],
+    "answer": "Routine varies, but most students attend classes from 9 AM to 3 PM, then study or relax."
+  },
+  {
+    "questions": ["How much time do students spend studying per week?"],
+    "answer": "On average, 15-20 hours per week outside of class."
+  },
+  {
+    "questions": ["Is there a lot of studying required?"],
+    "answer": "Yes, but it's manageable with good time management."
+  },
+  {
+    "questions": ["What's the average study time for students?"],
+    "answer": "Approximately 2-3 hours per day per course."
+  },
+  {
+    "questions": ["What do you do when you're not in class?"],
+    "answer": "Students study, participate in clubs, play sports, or relax with friends."
+  },
+  {
+    "questions": ["How do students spend their free time?"],
+    "answer": "Free time is spent in the gym, cafeteria, common rooms, or exploring the city."
+  },
+  {
+    "questions": ["Are there activities to do outside of class?"],
+    "answer": "Plenty – cultural festivals, tech fests, guest lectures, and volunteer opportunities."
+  },
+  {
+    "questions": ["What do you do on the weekends?"],
+    "answer": "Weekends often involve study groups, movie nights, sports matches, or trips to nearby malls."
+  },
+  {
+    "questions": ["Are there weekend activities or events?"],
+    "answer": "Yes, the college organizes workshops, hackathons, and social events on weekends."
+  },
+  {
+    "questions": ["How do students spend their weekends?"],
+    "answer": "Some go home, others stay on campus for recreation or part-time jobs."
+  },
+  {
+    "questions": ["What is the social scene like?"],
+    "answer": "Vibrant and diverse – there are frequent events, club meetings, and informal gatherings."
+  },
+  {
+    "questions": ["How would you describe the social life on campus?"],
+    "answer": "Friendly and inclusive. Many opportunities to make friends through clubs and events."
+  },
+  {
+    "questions": ["Are there opportunities to meet new people?"],
+    "answer": "Yes, orientation, sports, and cultural events are great for meeting people."
+  },
+  {
+    "questions": ["What kinds of things are there to do in your school's hometown?"],
+    "answer": "Nearby attractions include parks, malls, movie theaters, and restaurants."
+  },
+  {
+    "questions": ["Are there recreational activities in the local area?"],
+    "answer": "Yes, there are hiking trails, bowling alleys, and cafes frequented by students."
+  },
+  {
+    "questions": ["What are some popular attractions near the college?"],
+    "answer": "The city museum, botanical garden, and a large shopping mall are popular."
+  },
+  {
+    "questions": ["How's the food?"],
+    "answer": "The cafeteria offers a variety of nutritious meals including vegetarian and non-vegetarian options."
+  },
+  {
+    "questions": ["What is the quality of the food on campus?"],
+    "answer": "Good quality with rotating menus. Student feedback is taken regularly."
+  },
+  {
+    "questions": ["Are there good dining options?"],
+    "answer": "Yes, there are 3 dining halls, a food court, and several coffee shops on campus."
+  },
+  {
+    "questions": ["Do most students live on-campus?"],
+    "answer": "About 60% of students live on campus; the rest commute or live off-campus."
+  },
+  {
+    "questions": ["Are there on-campus housing options?"],
+    "answer": "Yes, dormitories and apartment-style housing are available."
+  },
+  {
+    "questions": ["What percentage of students live in dorms?"],
+    "answer": "Approximately 55% of freshmen and 40% of upperclassmen live in dorms."
+  },
+  {
+    "questions": ["How are the dorms?"],
+    "answer": "Dorms are well-maintained, with Wi-Fi, common areas, and laundry facilities."
+  },
+  {
+    "questions": ["Are the dormitories comfortable?"],
+    "answer": "Yes, rooms are spacious enough, air-conditioned, and have study desks."
+  },
+  {
+    "questions": ["What's the quality of on-campus housing?"],
+    "answer": "Good quality; recent renovations have improved living standards."
+  },
+  {
+    "questions": ["Which clubs and student organizations are popular?"],
+    "answer": "Popular clubs include Coding Club, Debate Society, Music Club, and Rotaract."
+  },
+  {
+    "questions": ["Are there any standout clubs on campus?"],
+    "answer": "The Entrepreneurship Cell and Robotics Club are standout winners at national competitions."
+  },
+  {
+    "questions": ["What are some of the most active student organizations?"],
+    "answer": "NSS, AIESEC, and the Cultural Committee are very active."
+  },
+  {
+    "questions": ["Do lots of students belong to fraternities or sororities?"],
+    "answer": "About 10% of students participate in Greek life. It's a personal choice."
+  },
+  {
+    "questions": ["Are there many Greek organizations on campus?"],
+    "answer": "Yes, there are 6 fraternities and 4 sororities officially recognized."
+  },
+  {
+    "questions": ["What's the Greek life like at your college?"],
+    "answer": "Greek life is present but not dominant; they organize charity events and social mixers."
+  },
+  {
+    "questions": ["What's your favorite place on campus?"],
+    "answer": "Many students love the central lawn, library rooftop, and the student activity center."
+  },
+  {
+    "questions": ["Which location do you enjoy the most?"],
+    "answer": "The cafeteria and the open-air amphitheater are crowd favorites."
+  },
+  {
+    "questions": ["Where do students like to hang out?"],
+    "answer": "Common areas, the game room, and the campus coffee shop."
+  },
+  {
+    "questions": ["Where do you like to study?"],
+    "answer": "The library, silent study zones, and 24/7 study lounges are popular."
+  },
+  {
+    "questions": ["What are some good study spots?"],
+    "answer": "Library cubicles, the computer center, and empty classrooms after hours."
+  },
+  {
+    "questions": ["Are there quiet places to study on campus?"],
+    "answer": "Yes, designated quiet floors in the library and secluded corners in academic buildings."
+  },
+  {
+    "questions": ["What are the facilities like (science labs, libraries, theaters, gyms, etc.)?"],
+    "answer": "Modern labs, a well-stocked library, a 500-seat auditorium, a gym, and sports fields."
+  },
+  {
+    "questions": ["Are the campus facilities well-maintained?"],
+    "answer": "Yes, the college invests regularly in maintenance and upgrades."
+  },
+  {
+    "questions": ["Does the college have modern facilities?"],
+    "answer": "Yes, we have smart classrooms, high-speed Wi-Fi, and advanced research equipment."
+  },
+  {
+    "questions": ["Are there enough computer labs?"],
+    "answer": "Yes, 5 computer labs with 300+ workstations are available across campus."
+  },
+  {
+    "questions": ["How accessible are the computer labs?"],
+    "answer": "Open from 8 AM to 8 PM on weekdays and reduced hours on weekends."
+  },
+  {
+    "questions": ["Is there a shortage of computer lab facilities?"],
+    "answer": "No, wait times are rare except during exam weeks."
+  },
+  {
+    "questions": ["How is the WiFi on campus?"],
+    "answer": "WiFi is available throughout campus with decent speed; occasional downtime is promptly fixed."
+  },
+  {
+    "questions": ["Is the campus WiFi reliable?"],
+    "answer": "Generally reliable, with IT support available for connectivity issues."
+  },
+  {
+    "questions": ["Are there any connectivity issues with the WiFi?"],
+    "answer": "Rare issues during peak hours, but IT resolves them quickly."
+  },
+  {
+    "questions": ["Is it easy to get around campus?"],
+    "answer": "Yes, the campus is compact and well-signposted. Walking is easy."
+  },
+  {
+    "questions": ["Are the campus buildings easy to navigate?"],
+    "answer": "Buildings are numbered and maps are available on the app and at entrances."
+  },
+  {
+    "questions": ["Is the campus layout student-friendly?"],
+    "answer": "Yes, it's designed for accessibility with ramps, elevators, and clear directions."
+  },
+  {
+    "questions": ["Are sports popular?"],
+    "answer": "Yes, many students participate in intramural and varsity sports."
+  },
+  {
+    "questions": ["Do many students participate in sports?"],
+    "answer": "Around 40% of students are involved in some form of sports."
+  },
+  {
+    "questions": ["What's the athletic culture like at your college?"],
+    "answer": "Energetic and inclusive – we have teams for cricket, football, basketball, and athletics."
+  },
+  {
+    "questions": ["Is there a lot of school spirit?"],
+    "answer": "Yes, especially during annual sports and cultural fests."
+  },
+  {
+    "questions": ["Do students show a strong sense of school pride?"],
+    "answer": "Absolutely. Many wear college merchandise and cheer at inter-college events."
+  },
+  {
+    "questions": ["Are there spirited events or traditions?"],
+    "answer": "Yes, the annual 'College Day', freshers' party, and farewell are big traditions."
+  },
+  {
+    "questions": ["How would you describe your fellow students?"],
+    "answer": "Diverse, friendly, and ambitious. Most are collaborative and helpful."
+  },
+  {
+    "questions": ["What are the students like?"],
+    "answer": "They come from various cultural backgrounds and are generally open-minded."
+  },
+  {
+    "questions": ["Is there a sense of community among students?"],
+    "answer": "Strong sense of community fostered through clubs, events, and shared spaces."
+  },
+  {
+    "questions": ["Are the students here friendly?"],
+    "answer": "Yes, students are welcoming and eager to help newcomers."
+  },
+  {
+    "questions": ["Is it easy to make friends?"],
+    "answer": "Very easy – orientation, group projects, and common rooms facilitate friendships."
+  },
+  {
+    "questions": ["Do students interact with each other?"],
+    "answer": "Frequently, both inside and outside the classroom."
+  },
+  {
+    "questions": ["What makes the student body unique?"],
+    "answer": "The blend of academic disciplines and cultural festivals makes it unique."
+  },
+  {
+    "questions": ["Is there anything special about the student population?"],
+    "answer": "High representation of first-generation college students and women in STEM."
+  },
+  {
+    "questions": ["What sets the students apart at your college?"],
+    "answer": "Their enthusiasm for innovation and social service."
+  },
+  {
+    "questions": ["Is there diversity on campus?"],
+    "answer": "Yes, students from 20+ states and 10 countries bring rich diversity."
+  },
+  {
+    "questions": ["Are there students from different cultural backgrounds?"],
+    "answer": "Absolutely. We celebrate many cultural events throughout the year."
+  },
+  {
+    "questions": ["Does the college promote diversity and inclusion?"],
+    "answer": "Yes, through equal opportunity policies, awareness campaigns, and support groups."
+  },
+  {
+    "questions": ["Are there many students from other countries?"],
+    "answer": "Around 5% international students from Nepal, Bhutan, Africa, and the Middle East."
+  },
+  {
+    "questions": ["Do you have a significant international student population?"],
+    "answer": "Modest but growing; we have an international student cell for support."
+  },
+  {
+    "questions": ["How diverse is the international representation at your college?"],
+    "answer": "Students from 10+ countries, including exchange students."
+  },
+  {
+    "questions": ["Do students of different races and classes interact easily?"],
+    "answer": "Yes, the campus culture encourages mixing through clubs and group activities."
+  },
+  {
+    "questions": ["Is there interaction and socialization among diverse groups?"],
+    "answer": "Yes, many cross-cultural events and dialogue sessions are organized."
+  },
+  {
+    "questions": ["Do students embrace diversity and engage in cross-cultural interactions?"],
+    "answer": "Yes, with enthusiasm. The college hosts an annual 'Unity Week' for this purpose."
+  },
+  {
+    "questions": ["Are students cliquish?"],
+    "answer": "Not particularly. While friend groups exist, most are open to newcomers."
+  },
+  {
+    "questions": ["Is there a presence of cliques on campus?"],
+    "answer": "Minimal – the environment is generally inclusive."
+  },
+  {
+    "questions": ["Do students segregate into exclusive groups?"],
+    "answer": "No, the college actively discourages exclusion through policies and activities."
+  },
+  {
+    "questions": ["Are internships available? How do you find them?"],
+    "answer": "Yes, through the career services portal, campus placements, and networking."
+  },
+  {
+    "questions": ["What internship opportunities are there?"],
+    "answer": "Summer internships, part-time, and virtual internships across all majors."
+  },
+  {
+    "questions": ["How does the college support students in finding internships?"],
+    "answer": "Career services organizes job fairs, resume workshops, and maintains an internship database."
+  },
+  {
+    "questions": ["Is Career Services helpful?"],
+    "answer": "Very helpful – they offer mock interviews, career counseling, and recruiter connections."
+  },
+  {
+    "questions": ["What services does the career center provide?"],
+    "answer": "Resume reviews, job listings, on-campus recruitment, and alumni networking."
+  },
+  {
+    "questions": ["How effective is the college's career guidance?"],
+    "answer": "Highly effective – over 90% of students use the center and rate it positively."
+  },
+  {
+    "questions": ["Do you have a mentor?"],
+    "answer": "The college has a formal mentorship program where faculty mentor students."
+  },
+  {
+    "questions": ["Is there a mentorship program?"],
+    "answer": "Yes, each student is assigned a faculty mentor for academic and career advice."
+  },
+  {
+    "questions": ["How can students connect with mentors?"],
+    "answer": "Through scheduled meetings, email, or during office hours."
+  },
+  {
+    "questions": ["Does your school have a co-op program?"],
+    "answer": "Yes, a cooperative education program allows students to alternate work and study."
+  },
+  {
+    "questions": ["Are there cooperative education opportunities?"],
+    "answer": "Yes, in engineering and business disciplines, with paid industry placements."
+  },
+  {
+    "questions": ["How does the college support students in co-op experiences?"],
+    "answer": "The co-op office helps with applications, interview prep, and academic credit."
+  },
+  {
+    "questions": ["What options exist for leadership skills on campus?"],
+    "answer": "Student government, club leadership, event organizing, and leadership workshops."
+  },
+  {
+    "questions": ["Are there leadership programs or positions?"],
+    "answer": "Yes, the 'LeaderShape' program and elected positions in student council."
+  },
+  {
+    "questions": ["How can students develop leadership skills?"],
+    "answer": "By joining clubs, volunteering, or taking leadership courses."
+  },
+  {
+    "questions": ["What options exist for service learning in the community?"],
+    "answer": "NSS, Rotaract, and community service projects tied to courses."
+  },
+  {
+    "questions": ["Are there community service programs?"],
+    "answer": "Yes, regular outreach programs like teaching underprivileged children, tree plantation, etc."
+  },
+  {
+    "questions": ["How can students get involved in community service?"],
+    "answer": "Sign up through the student affairs office or join the social service club."
+  },
+  {
+    "questions": ["Do employers recruit students on campus?"],
+    "answer": "Yes, many companies visit for campus placements and internships."
+  },
+  {
+    "questions": ["Are there career fairs or job fairs?"],
+    "answer": "Two major career fairs every year, plus sector-specific events."
+  },
+  {
+    "questions": ["How does the college connect students with potential employers?"],
+    "answer": "Through placement drives, industry visits, and an online job portal."
+  },
+  {
+    "questions": ["How easy is it to find summer jobs and other kinds of work through your school?"],
+    "answer": "The career center lists summer jobs and part-time work on the portal."
+  },
+  {
+    "questions": ["Are there resources for finding summer employment?"],
+    "answer": "Yes, resume databases, employer lists, and summer internship fairs."
+  },
+  {
+    "questions": ["Does the college assist with summer job opportunities?"],
+    "answer": "Yes, they share openings and help with applications."
+  },
+  {
+    "questions": ["Who are some of the notable graduates from your college?"],
+    "answer": "Notable alumni include startup founders, senior engineers at Google, and IAS officers."
+  },
+  {
+    "questions": ["Can you mention any famous alumni?"],
+    "answer": "Examples: Dr. A. Sharma (AI researcher), Ms. B. Kaur (entrepreneur)."
+  },
+  {
+    "questions": ["Which successful individuals attended your college?"],
+    "answer": "Many alumni have become CEOs, professors, and civil servants."
+  },
+  {
+    "questions": ["How visible is your school's alumni association on campus?"],
+    "answer": "Very active – alumni return for guest lectures, networking, and homecoming events."
+  },
+  {
+    "questions": ["Does the college have an active alumni network?"],
+    "answer": "Yes, with chapters in major cities and regular meetups."
+  },
+  {
+    "questions": ["Are there opportunities to connect with alumni?"],
+    "answer": "Yes, through the alumni portal, mentoring program, and annual alumni day."
+  },
+  {
+    "questions": ["What kinds of hands-on or practical experiences have you had in and outside of the classroom?"],
+    "answer": "Lab work, industry projects, internships, and hackathons provide practical experience."
+  },
+  {
+    "questions": ["Are there opportunities for practical learning?"],
+    "answer": "Yes, project-based learning, case competitions, and field visits."
+  },
+  {
+    "questions": ["How does the college emphasize experiential learning?"],
+    "answer": "Through mandatory internships, lab courses, and capstone projects."
+  },
+  {
+    "questions": ["What makes this college or university special?"],
+    "answer": "Our hands-on learning, strong industry ties, and vibrant campus life set us apart."
+  },
+  {
+    "questions": ["What sets your college apart from others?"],
+    "answer": "Low student-faculty ratio, modern labs, and 100% placement assistance."
+  },
+  {
+    "questions": ["What unique programs or opportunities does the college offer?"],
+    "answer": "We have a unique AI & Data Science M.Tech, startup incubation center, and semester abroad."
+  },
+  {
+    "questions": ["Tell me about any distinctive features of your college."],
+    "answer": "Green campus, smart classrooms, and a dedicated research cell."
+  },
+  {
+    "questions": ["What are the college's strengths or unique selling points?"],
+    "answer": "Industry-aligned curriculum, high employability, and international collaborations."
+  },
+  {
+    "questions": ["What is this school proud of?"],
+    "answer": "Our diverse community, academic excellence, and social impact projects."
+  },
+  {
+    "questions": ["What accomplishments or achievements is the college known for?"],
+    "answer": "Ranked among top 50 engineering colleges; winner of national hackathon."
+  },
+  {
+    "questions": ["What makes students proud to attend this college?"],
+    "answer": "The supportive environment, quality education, and strong alumni network."
+  },
+  {
+    "questions": ["Tell me about the college's notable achievements."],
+    "answer": "Received 'Best Innovation Award' from the government and has funded research projects."
+  },
+  {
+    "questions": ["How does the college showcase its achievements?"],
+    "answer": "Through annual reports, news articles, and achievement displays in the lobby."
+  },
+  {
+    "questions": ["How many undergraduate students attend this school?", "What is the size of the undergraduate student body?", "Can you tell me the total undergraduate enrollment?"],
+    "answer": "Approximately 4,500 undergraduate students."
+  },
+  {
+    "questions": ["What is the average undergraduate class size?"],
+    "answer": "Average class size is 35 for undergrad courses."
+  },
+  {
+    "questions": ["How many students are in the freshman class?"],
+    "answer": "Approximately 1,200 freshmen are admitted each year."
+  },
+  {
+    "questions": ["How many graduate students attend?", "What is the size of the graduate student population?", "Can you tell me the total graduate enrollment?"],
+    "answer": "About 800 graduate students."
+  },
+  {
+    "questions": ["What graduate programs does the college offer?"],
+    "answer": "M.Tech, MBA, and MCA programs in various specializations."
+  },
+  {
+    "questions": ["What percentage of students are in graduate programs?"],
+    "answer": "Around 15% of total students are in graduate programs."
+  },
+  {
+    "questions": ["How diverse is this campus?"],
+    "answer": "Campus is highly diverse with students from many states and countries."
+  },
+  {
+    "questions": ["What is the demographic breakdown of the student body?"],
+    "answer": "60% male, 40% female; 30% from minority backgrounds; 5% international."
+  },
+  {
+    "questions": ["Does the college have a diverse student population?"],
+    "answer": "Yes, we celebrate over 15 cultural festivals every year."
+  },
+  {
+    "questions": ["Tell me about the campus's commitment to diversity and inclusion."],
+    "answer": "We have an equity office, diversity training, and support for underrepresented groups."
+  },
+  {
+    "questions": ["Are there any diversity-related events or initiatives on campus?"],
+    "answer": "Yes, 'Unity Week', 'International Food Festival', and anti-racism workshops."
+  },
+  {
+    "questions": ["How financially sound is this school?", "Is the college financially stable?"],
+    "answer": "The college is financially stable with a healthy endowment and annual surplus."
+  },
+  {
+    "questions": ["Does the college face any financial challenges?"],
+    "answer": "No major challenges; we operate within a balanced budget."
+  },
+  {
+    "questions": ["What is the college's endowment size?"],
+    "answer": "The endowment is approximately $50 million."
+  },
+  {
+    "questions": ["How does the college manage its financial resources?"],
+    "answer": "Through prudent investments, grants, and transparent allocation."
+  },
+  {
+    "questions": ["What is this school's bond rating?"],
+    "answer": "Our bond rating is AA- (stable)."
+  },
+  {
+    "questions": ["How does the college's bond rating affect its financial standing?"],
+    "answer": "A high rating lowers borrowing costs and reflects fiscal responsibility."
+  },
+  {
+    "questions": ["What is the college's credit rating?"],
+    "answer": "AA- from CRISIL."
+  },
+  {
+    "questions": ["Can you provide information about the college's financial ratings?"],
+    "answer": "We have a stable outlook with excellent liquidity and reserves."
+  },
+  {
+    "questions": ["How does the college use its bond rating to secure funds?"],
+    "answer": "To finance new buildings and lab upgrades at low interest."
+  },
+  {
+    "questions": ["What is the average class size of introductory courses?"],
+    "answer": "Intro courses average 60-80 students."
+  },
+  {
+    "questions": ["How many students are typically in introductory classes?"],
+    "answer": "Around 70 students."
+  },
+  {
+    "questions": ["Are introductory courses large or small?"],
+    "answer": "They tend to be larger, but with recitation sections for personalized help."
+  },
+  {
+    "questions": ["Do introductory classes have a large number of students?"],
+    "answer": "Yes, but TAs and office hours provide support."
+  },
+  {
+    "questions": ["How much individual attention can students expect in introductory courses?"],
+    "answer": "Professors hold office hours and TAs hold weekly recitations."
+  },
+  {
+    "questions": ["What is the average class size of upper-division courses?"],
+    "answer": "Upper-division classes average 20-30 students."
+  },
+  {
+    "questions": ["Are upper-division classes large or small?"],
+    "answer": "Smaller, allowing discussion and mentorship."
+  },
+  {
+    "questions": ["Do upper-division courses have a large number of students?"],
+    "answer": "No, they are intentionally limited."
+  },
+  {
+    "questions": ["How much individual attention can students expect in upper-division courses?"],
+    "answer": "High – professors know students by name."
+  },
+  {
+    "questions": ["Are upper-level classes more or less intimate than introductory classes?"],
+    "answer": "Much more intimate."
+  },
+  {
+    "questions": ["How often are teaching assistants used?"],
+    "answer": "TAs are used in large intro courses for labs and tutorials."
+  },
+  {
+    "questions": ["Are teaching assistants involved in teaching classes?"],
+    "answer": "They lead discussion sections and assist with grading."
+  },
+  {
+    "questions": ["Do teaching assistants lead discussions or labs?"],
+    "answer": "Yes, especially for science and engineering labs."
+  },
+  {
+    "questions": ["How accessible are teaching assistants to students?"],
+    "answer": "TAs have office hours and are available via email."
+  },
+  {
+    "questions": ["What role do teaching assistants play in student support?"],
+    "answer": "They provide extra help, clarify concepts, and conduct review sessions."
+  },
+  {
+    "questions": ["How easy or difficult is it to enroll in the courses you need?"],
+    "answer": "Generally easy with proper planning and early registration."
+  },
+  {
+    "questions": ["Is course registration a straightforward process?"],
+    "answer": "Yes, done online via the student portal with clear instructions."
+  },
+  {
+    "questions": ["Are students able to get into their preferred courses?"],
+    "answer": "Mostly yes; if full, waitlists are available."
+  },
+  {
+    "questions": ["Do students encounter any challenges during course registration?"],
+    "answer": "Rarely, except for high-demand courses; advisors help find alternatives."
+  },
+  {
+    "questions": ["How does the college ensure students can enroll in required courses?"],
+    "answer": "By offering multiple sections and balancing seat availability."
+  },
+  {
+    "questions": ["How much interaction, if any, will the typical undergrad have with tenured professors?"],
+    "answer": "Significant – tenured professors teach many core courses and have office hours."
+  },
+  {
+    "questions": ["Will interaction with tenured professors be limited to lecture halls?"],
+    "answer": "No, they also mentor projects and hold individual meetings."
+  },
+  {
+    "questions": ["What opportunities are there for students to interact with professors outside of class?"],
+    "answer": "Research projects, club advising, and informal coffee chats."
+  },
+  {
+    "questions": ["Do professors hold regular office hours for students?"],
+    "answer": "Yes, at least 4 hours per week."
+  },
+  {
+    "questions": ["Is there a chance to collaborate with professors on research projects?"],
+    "answer": "Yes, many professors involve undergrads in their research."
+  },
+  {
+    "questions": ["What are the typical class sizes of my intended major?"],
+    "answer": "Varies by major, but usually 20-40 for core major courses."
+  },
+  {
+    "questions": ["Are classes in my intended major generally large or small?"],
+    "answer": "Small to medium, fostering close interaction."
+  },
+  {
+    "questions": ["How much individual attention can students expect in their major-related courses?"],
+    "answer": "A lot – professors are accessible and class sizes are limited."
+  },
+  {
+    "questions": ["Are major-specific classes more intimate than general courses?"],
+    "answer": "Yes, they typically have fewer than 30 students."
+  },
+  {
+    "questions": ["Will my major classes involve close interactions with faculty?"],
+    "answer": "Absolutely, especially in lab and capstone courses."
+  },
+  {
+    "questions": ["Is my intended discipline an impacted/oversubscribed major?"],
+    "answer": "Computer Science and Mechanical Engineering are impacted; others have open seats."
+  },
+  {
+    "questions": ["Are there any limitations on enrollment in my intended major?"],
+    "answer": "Yes, for impacted majors, there may be minimum GPA and entrance requirements."
+  },
+  {
+    "questions": ["Do certain majors have restricted enrollment?"],
+    "answer": "Yes, CSE and AI/Data Science have caps."
+  },
+  {
+    "questions": ["What majors are most popular among students?"],
+    "answer": "CSE, MBA, and Mechanical Engineering."
+  },
+  {
+    "questions": ["How competitive is it to get into specific majors?"],
+    "answer": "Competitive for CSE; moderate for others."
+  },
+  {
+    "questions": ["Am I guaranteed the major that I’m interested in?"],
+    "answer": "Not for impacted majors; you must meet the cutoff."
+  },
+  {
+    "questions": ["Is there a direct admission process for my intended major?"],
+    "answer": "Some majors admit directly based on entrance exam rank."
+  },
+  {
+    "questions": ["How does the college handle declaring a major?"],
+    "answer": "You declare by the end of the second year after completing prerequisites."
+  },
+  {
+    "questions": ["Is it possible to change majors after enrollment?"],
+    "answer": "Yes, by filling a change-of-major form and meeting requirements."
+  },
+  {
+    "questions": ["What is the process for switching to a different major?"],
+    "answer": "Consult advisor, complete prerequisites, then apply online."
+  },
+  {
+    "questions": ["Are the admission standards higher for certain majors?"],
+    "answer": "Yes, for CSE and AI, higher cutoffs apply."
+  },
+  {
+    "questions": ["Do different majors have different admission requirements?"],
+    "answer": "Yes, in terms of prerequisite courses and minimum GPA."
+  },
+  {
+    "questions": ["What are the requirements for getting into competitive majors?"],
+    "answer": "Minimum 80% in relevant subjects and a good entrance score."
+  },
+  {
+    "questions": ["Do some majors have limited availability?"],
+    "answer": "Yes, seats are limited in high-demand majors."
+  },
+  {
+    "questions": ["What GPA and prerequisites are needed for specific majors?"],
+    "answer": "Check the academic catalog; typical prerequisite: first-year courses with B average."
+  },
+  {
+    "questions": ["When do you have to declare a major?"],
+    "answer": "By the end of the 4th semester."
+  },
+  {
+    "questions": ["What is the timeline for declaring a major?"],
+    "answer": "You can declare as early as 2nd semester, but deadline is 4th semester."
+  },
+  {
+    "questions": ["Is there a deadline for choosing a major?"],
+    "answer": "Yes, before registration for the 5th semester."
+  },
+  {
+    "questions": ["Are students required to declare a major immediately?"],
+    "answer": "No, first-year students are usually undeclared."
+  },
+  {
+    "questions": ["Is there flexibility in declaring a major?"],
+    "answer": "Yes, you can explore before deciding."
+  },
+  {
+    "questions": ["How much time do students typically spend on homework?"],
+    "answer": "About 2-3 hours per credit hour per week."
+  },
+  {
+    "questions": ["Is there an average number of study hours per week?"],
+    "answer": "15-20 hours total."
+  },
+  {
+    "questions": ["What is the expected workload for students?"],
+    "answer": "Moderate to heavy, depending on course load."
+  },
+  {
+    "questions": ["Are students required to complete a lot of assignments outside of class?"],
+    "answer": "Yes, but it's balanced with in-class learning."
+  },
+  {
+    "questions": ["How much time should I expect to dedicate to studying each week?"],
+    "answer": "Plan for 2 hours of study per hour of class time."
+  },
+  {
+    "questions": ["How much writing and reading are expected?"],
+    "answer": "Varies by major; humanities more, engineering less."
+  },
+  {
+    "questions": ["Are there specific reading and writing requirements for certain majors?"],
+    "answer": "Yes, all majors have some writing component in core courses."
+  },
+  {
+    "questions": ["Are there writing-intensive courses?"],
+    "answer": "Yes, at least two writing-intensive courses are required for graduation."
+  },
+  {
+    "questions": ["How does the college emphasize writing and reading skills?"],
+    "answer": "Through composition courses, writing center, and rubrics."
+  },
+  {
+    "questions": ["Do students have opportunities for creative writing or research writing?"],
+    "answer": "Yes, elective courses and the college magazine."
+  },
+  {
+    "questions": ["Is it possible to double major?"],
+    "answer": "Yes, with approval and a feasible plan."
+  },
+  {
+    "questions": ["Can students pursue two majors simultaneously?"],
+    "answer": "Yes, if course loads can be managed."
+  },
+  {
+    "questions": ["How does double majoring work?"],
+    "answer": "You complete requirements for both majors; some overlapping courses may count."
+  },
+  {
+    "questions": ["Are there any restrictions on double majoring?"],
+    "answer": "Cannot double within same department without special permission."
+  },
+  {
+    "questions": ["Do many students choose to double major?"],
+    "answer": "About 10% do, mostly combining business with tech."
+  },
+  {
+    "questions": ["Is the school on a semester, trimester or quarter system?"],
+    "answer": "Semester system (two main semesters + summer optional)."
+  },
+  {
+    "questions": ["What is the academic calendar like?"],
+    "answer": "Fall (Aug-Dec), Spring (Jan-May), Summer (Jun-Jul)."
+  },
+  {
+    "questions": ["How many semesters are in an academic year?"],
+    "answer": "Two regular semesters."
+  },
+  {
+    "questions": ["Does the college have summer sessions?"],
+    "answer": "Yes, summer courses are offered for credit."
+  },
+  {
+    "questions": ["What is the typical length of a semester?"],
+    "answer": "15 weeks + exam week."
+  },
+  {
+    "questions": ["Do you have an honors college?"],
+    "answer": "Yes, the Honors College offers enriched courses and research."
+  },
+  {
+    "questions": ["Is there an honors program for high-achieving students?"],
+    "answer": "Yes, admission by invitation or application."
+  },
+  {
+    "questions": ["What are the benefits of the honors college?"],
+    "answer": "Small classes, priority registration, research stipends, and special events."
+  },
+  {
+    "questions": ["How can students qualify for the honors college?"],
+    "answer": "Top 10% of incoming class or college GPA above 3.5 after first year."
+  },
+  {
+    "questions": ["Are there additional requirements to participate in the honors program?"],
+    "answer": "Honors thesis or project, and maintain a 3.3 GPA."
+  },
+  {
+    "questions": ["What does the honors college offer?"],
+    "answer": "Exclusive seminars, honors housing, and networking with faculty."
+  },
+  {
+    "questions": ["What are the advantages of being part of the honors program?"],
+    "answer": "Enhanced learning, research funding, and transcript distinction."
+  },
+  {
+    "questions": ["Do honors students get priority registration?"],
+    "answer": "Yes, they register before other students."
+  },
+  {
+    "questions": ["Are there special events or activities for honors students?"],
+    "answer": "Yes, guest lectures, retreats, and honors convocation."
+  },
+  {
+    "questions": ["How does the honors college enhance the academic experience?"],
+    "answer": "By offering challenging curriculum and close faculty mentorship."
+  },
+  {
+    "questions": ["What are the academic requirements to qualify for the honors college?"],
+    "answer": "Minimum 1300 SAT or 3.7 unweighted GPA for freshmen."
+  },
+  {
+    "questions": ["What GPA or test scores are needed to join the honors program?"],
+    "answer": "3.5 college GPA or equivalent high school rank."
+  },
+  {
+    "questions": ["Are there specific eligibility criteria for the honors college?"],
+    "answer": "High academic achievement and a written application."
+  },
+  {
+    "questions": ["How competitive is the application process for the honors program?"],
+    "answer": "Moderately competitive; about 40% of applicants are accepted."
+  },
+  {
+    "questions": ["Do students have to maintain certain academic standards in the honors college?"],
+    "answer": "Yes, maintain 3.3 GPA and complete honors courses."
+  },
+  {
+    "questions": ["Do you have a learning community or other freshman learning experiences?"],
+    "answer": "Yes, first-year learning communities for common majors."
+  },
+  {
+    "questions": ["Are there programs designed to help freshmen transition to college?"],
+    "answer": "YES – freshman seminar, peer mentoring, and success workshops."
+  },
+  {
+    "questions": ["What resources are available to support first-year students?"],
+    "answer": "Tutoring, academic advising, counseling, and a first-year center."
+  },
+  {
+    "questions": ["Are there mentorship or peer support programs for freshmen?"],
+    "answer": "Yes, each freshman is assigned a peer mentor."
+  },
+  {
+    "questions": ["How does the college ensure a smooth transition for incoming students?"],
+    "answer": "Through orientation, bridge courses, and early alert systems."
+  },
+  {
+    "questions": ["Do seniors complete a capstone experience or project?"],
+    "answer": "Yes, all majors require a capstone course or project."
+  },
+  {
+    "questions": ["What is the senior capstone project?"],
+    "answer": "A culminating project integrating knowledge and skills."
+  },
+  {
+    "questions": ["How does the capstone experience contribute to students' learning?"],
+    "answer": "It demonstrates readiness for the workforce or graduate school."
+  },
+  {
+    "questions": ["Is the senior capstone required for all majors?"],
+    "answer": "Yes, for all bachelor's degrees."
+  },
+  {
+    "questions": ["What kind of support do students receive during their capstone project?"],
+    "answer": "Faculty supervision, library resources, and funding for materials."
+  },
+  {
+    "questions": ["What is your academic advisory system like?"],
+    "answer": "Professional advisors for first two years, then faculty advisors."
+  },
+  {
+    "questions": ["How does academic advising work?"],
+    "answer": "Students meet advisors each semester to plan courses and track progress."
+  },
+  {
+    "questions": ["Do students have assigned academic advisors?"],
+    "answer": "Yes, every student has a dedicated advisor."
+  },
+  {
+    "questions": ["Are there specific advisors for different majors?"],
+    "answer": "Yes, faculty advisors for majors; professional advisors for undecided."
+  },
+  {
+    "questions": ["Can students meet with academic advisors regularly?"],
+    "answer": "Yes, walk-in and appointment options available."
+  },
+  {
+    "questions": ["Is it possible to get a professor as my advisor?"],
+    "answer": "Yes, once you declare a major, a faculty member is assigned."
+  },
+  {
+    "questions": ["Can students choose a professor as their academic advisor?"],
+    "answer": "Usually assigned, but you can request a specific professor."
+  },
+  {
+    "questions": ["Are professors available for one-on-one advising?"],
+    "answer": "Yes, during office hours or by appointment."
+  },
+  {
+    "questions": ["How can students request a specific professor as their advisor?"],
+    "answer": "Submit a request form to the department chair."
+  },
+  {
+    "questions": ["What benefits does having a professor as an advisor offer?"],
+    "answer": "Deep subject knowledge, research guidance, and career connections."
+  },
+  {
+    "questions": ["What percentage of students studies abroad?"],
+    "answer": "About 30% study abroad at least once."
+  },
+  {
+    "questions": ["Do many students participate in study abroad programs?"],
+    "answer": "Yes, it's popular and well-supported."
+  },
+  {
+    "questions": ["Are there opportunities for international study?"],
+    "answer": "Yes, semester and summer programs in 20+ countries."
+  },
+  {
+    "questions": ["What types of study abroad programs are available?"],
+    "answer": "Exchange, faculty-led, and internship abroad."
+  },
+  {
+    "questions": ["How does studying abroad enhance students' college experience?"],
+    "answer": "Cultural immersion, language skills, and global perspective."
+  },
+  {
+    "questions": ["Do students in my intended major tend to study abroad?"],
+    "answer": "Yes, many majors have tailored study abroad options."
+  },
+  {
+    "questions": ["Are there specific study abroad programs related to my major?"],
+    "answer": "Yes, for business, engineering, and language majors."
+  },
+  {
+    "questions": ["How can studying abroad benefit my major?"],
+    "answer": "International internships and coursework can count toward major."
+  },
+  {
+    "questions": ["Do students in certain majors find it easier to study abroad?"],
+    "answer": "Liberal arts and business have more flexibility; engineering requires careful planning."
+  },
+  {
+    "questions": ["What support is available for major-specific study abroad opportunities?"],
+    "answer": "Study abroad office and major advisors help with credit transfer."
+  },
+  {
+    "questions": ["What opportunities are there for undergraduate research?"],
+    "answer": "Summer research fellowships, independent study, and lab assistant roles."
+  },
+  {
+    "questions": ["Are research opportunities available for undergraduate students?"],
+    "answer": "Yes, across all departments."
+  },
+  {
+    "questions": ["Can undergraduates engage in research projects?"],
+    "answer": "Absolutely, many publish and present at conferences."
+  },
+  {
+    "questions": ["How can I get involved in research as an undergraduate?"],
+    "answer": "Talk to professors, apply to research programs, or join a research lab."
+  },
+  {
+    "questions": ["What benefits does undergraduate research offer?"],
+    "answer": "Critical thinking, graduate school preparation, and networking."
+  },
+  {
+    "questions": ["How many students participate in undergraduate research?"],
+    "answer": "About 25% of students engage in research."
+  },
+  {
+    "questions": ["Is undergraduate research common on campus?"],
+    "answer": "Yes, especially in sciences and engineering."
+  },
+  {
+    "questions": ["Do many students engage in research projects?"],
+    "answer": "A significant number, and it's growing."
+  },
+  {
+    "questions": ["What percentage of undergraduates are involved in research?"],
+    "answer": "Around 25%."
+  },
+  {
+    "questions": ["What departments have the highest research participation rates?"],
+    "answer": "Biology, Chemistry, Physics, and CSE."
+  },
+  {
+    "questions": ["What departments offer undergraduate research?"],
+    "answer": "All science, engineering, and social science departments."
+  },
+  {
+    "questions": ["Are there specific departments that prioritize research?"],
+    "answer": "STEM departments have more funded research projects."
+  },
+  {
+    "questions": ["Which academic areas provide research opportunities?"],
+    "answer": "Nearly all; even humanities have archival research."
+  },
+  {
+    "questions": ["Can students in all majors participate in research?"],
+    "answer": "Yes, though opportunities vary by field."
+  },
+  {
+    "questions": ["What support is available for research in different departments?"],
+    "answer": "Departmental research days, funding, and dedicated labs."
+  },
+  {
+    "questions": ["If you want to transfer: how do I know how many academic credits will transfer?"],
+    "answer": "Submit transcripts for evaluation; the registrar's office provides a credit transfer report."
+  },
+  {
+    "questions": ["What is the credit transfer process for transfer students?"],
+    "answer": "Complete a transfer credit application with official syllabi."
+  },
+  {
+    "questions": ["Are there specific guidelines for credit transfer?"],
+    "answer": "Only courses with grade C or above from accredited institutions may transfer."
+  },
+  {
+    "questions": ["How are credits evaluated during the transfer process?"],
+    "answer": "Department faculty evaluate course equivalency."
+  },
+  {
+    "questions": ["Is there a maximum number of credits that can be transferred?"],
+    "answer": "Maximum 60 credits for undergraduate programs."
+  },
+  {
+    "questions": ["What is your four-year graduation rate?", "How many students graduate within four years?", "What percentage of students complete their degree in four years?"],
+    "answer": "65% of students graduate in four years."
+  },
+  {
+    "questions": ["Is the four-year graduation rate high?"],
+    "answer": "Above national average for public universities."
+  },
+  {
+    "questions": ["How does the college support students in graduating on time?"],
+    "answer": "Degree maps, academic advising, and summer/winter courses."
+  },
+  {
+    "questions": ["What is your five-year graduation rate?", "How many students graduate within five years?", "What percentage of students complete their degree in five years?"],
+    "answer": "78%."
+  },
+  {
+    "questions": ["Is the five-year graduation rate significantly different from the four-year rate?"],
+    "answer": "Yes, about 13% more students graduate by year five."
+  },
+  {
+    "questions": ["How does the college support students who take longer to graduate?"],
+    "answer": "Flexible scheduling, part-time options, and financial aid continuation."
+  },
+  {
+    "questions": ["What is your six-year graduation rate?", "How many students graduate within six years?", "What percentage of students complete their degree in six years?"],
+    "answer": "82%."
+  },
+  {
+    "questions": ["Is the six-year graduation rate significantly different from the four-year rate?"],
+    "answer": "Yes, it's higher by 17%."
+  },
+  {
+    "questions": ["What are the main reasons why students don't graduate on time?"],
+    "answer": "Changing majors, failing courses, financial issues, or personal challenges."
+  },
+  {
+    "questions": ["Why do some students take longer to complete their degree?"],
+    "answer": "Double major, part-time enrollment, or co-op programs."
+  },
+  {
+    "questions": ["Are there common factors that contribute to graduation delays?"],
+    "answer": "Yes, lack of academic planning and prerequisite bottlenecks."
+  },
+  {
+    "questions": ["How does the college address challenges that students may face?"],
+    "answer": "Early alert system, tutoring, and financial aid counseling."
+  },
+  {
+    "questions": ["What support is available for students experiencing delays in graduation?"],
+    "answer": "Retention specialists and emergency grants."
+  },
+  {
+    "questions": ["What does it take to graduate in four years?"],
+    "answer": "Take 15 credits per semester, pass all courses, and follow degree plan."
+  },
+  {
+    "questions": ["What are the requirements for a four-year graduation plan?"],
+    "answer": "No failed courses, meet prerequisites, and avoid major changes."
+  },
+  {
+    "questions": ["Can students graduate in four years without overloading?"],
+    "answer": "Yes, 15 credits per semester is standard."
+  },
+  {
+    "questions": ["Are there recommended course sequences for timely graduation?"],
+    "answer": "Yes, provided in the student handbook and degree audit tool."
+  },
+  {
+    "questions": ["How can students ensure they meet all graduation requirements in four years?"],
+    "answer": "Regularly check degree audit and meet with advisor."
+  },
+  {
+    "questions": ["Will it take longer to graduate if you double major?"],
+    "answer": "Often yes, by one or two semesters."
+  },
+  {
+    "questions": ["How does double majoring affect graduation time?"],
+    "answer": "Requires careful planning; may add 1-2 extra semesters."
+  },
+  {
+    "questions": ["Can students complete a double major within four years?"],
+    "answer": "Possible if majors overlap and summer courses are taken."
+  },
+  {
+    "questions": ["What strategies are available to ensure timely graduation while double majoring?"],
+    "answer": "Plan early, take summer classes, and maximize overlapping requirements."
+  },
+  {
+    "questions": ["Are there any examples of successful double majors who graduated on time?"],
+    "answer": "Yes, some students do it by starting early and using AP credits."
+  },
+  {
+    "questions": ["What percentage of freshmen return for the sophomore year (retention rate)?", "How many freshmen continue to their second year?"],
+    "answer": "85% retention rate."
+  },
+  {
+    "questions": ["Is the freshman retention rate high?"],
+    "answer": "Yes, above national average."
+  },
+  {
+    "questions": ["What factors contribute to a strong retention rate?"],
+    "answer": "Orientation, academic support, and campus engagement."
+  },
+  {
+    "questions": ["How does the college support freshmen during their first year?"],
+    "answer": "First-year experience course, tutoring, and living-learning communities."
+  },
+  {
+    "questions": ["What are the major reasons why students leave prematurely?"],
+    "answer": "Financial problems, academic difficulty, homesickness, or health issues."
+  },
+  {
+    "questions": ["Are there common factors that lead to students leaving college?"],
+    "answer": "Yes, primarily financial and academic."
+  },
+  {
+    "questions": ["How does the college address issues that contribute to student attrition?"],
+    "answer": "Financial aid counseling, academic coaching, and mental health services."
+  },
+  {
+    "questions": ["What support is available for students considering leaving college?"],
+    "answer": "Withdrawal counseling and re-admission pathways."
+  },
+  {
+    "questions": ["Are there efforts to improve retention rates?"],
+    "answer": "Yes, ongoing programs like peer mentoring and early warning systems."
+  },
+  {
+    "questions": ["How do you provide academic advice to students?"],
+    "answer": "Through the Academic Advising Center, faculty advisors, and online resources."
+  },
+  {
+    "questions": ["What resources are available for academic advising?"],
+    "answer": "Degree audit software, advising handbooks, and appointment scheduling."
+  },
+  {
+    "questions": ["Are there designated advisors for specific majors?"],
+    "answer": "Yes, each major has faculty advisors."
+  },
+  {
+    "questions": ["How can students access academic advising?"],
+    "answer": "In-person, phone, or video appointments."
+  },
+  {
+    "questions": ["Is academic advising available throughout the academic year?"],
+    "answer": "Yes, including summer."
+  },
+  {
+    "questions": ["Do you have a writing center?", "Is there a writing center on campus?"],
+    "answer": "Yes, free writing support for all students."
+  },
+  {
+    "questions": ["What services does the writing center provide?"],
+    "answer": "One-on-one consultations, workshops, and online feedback."
+  },
+  {
+    "questions": ["Can students receive help with essays and papers?"],
+    "answer": "Yes, at any stage of writing."
+  },
+  {
+    "questions": ["How can students schedule appointments with the writing center?"],
+    "answer": "Online booking system or drop-in hours."
+  },
+  {
+    "questions": ["What tutoring services do you have?"],
+    "answer": "Peer tutoring for math, science, writing, and languages."
+  },
+  {
+    "questions": ["Are tutoring services available for specific subjects?"],
+    "answer": "Yes, for core and many elective courses."
+  },
+  {
+    "questions": ["How can students access tutoring help?"],
+    "answer": "Tutoring schedule online or via the academic success center."
+  },
+  {
+    "questions": ["Are there any peer tutoring programs?"],
+    "answer": "Yes, trained upperclassmen offer free tutoring."
+  },
+  {
+    "questions": ["Are tutoring services free for students?"],
+    "answer": "Yes, included in fees."
+  },
+  {
+    "questions": ["Do you have an orientation program for freshmen or transfer students?"],
+    "answer": "Yes, mandatory orientation before fall semester."
+  },
+  {
+    "questions": ["What does the orientation program include?"],
+    "answer": "Campus tour, course registration, and social activities."
+  },
+  {
+    "questions": ["How does the orientation program help new students transition to college?"],
+    "answer": "Introduces resources, builds community, and reduces anxiety."
+  },
+  {
+    "questions": ["Is orientation mandatory for incoming students?"],
+    "answer": "Yes, for all new students."
+  },
+  {
+    "questions": ["Is there an orientation program for parents and families?"],
+    "answer": "Yes, a separate parent orientation session."
+  },
+  {
+    "questions": ["What kind of learning disability services do you offer?"],
+    "answer": "Extended time, note-takers, sign language interpreters, accessible formats."
+  },
+  {
+    "questions": ["Are there accommodations for students with learning disabilities?"],
+    "answer": "Yes, registered through the Disability Services Office."
+  },
+  {
+    "questions": ["How can students access learning disability services?"],
+    "answer": "Register with documentation to Disability Services."
+  },
+  {
+    "questions": ["Is there a separate office for disability services?"],
+    "answer": "Yes, the Office of Access and Accommodation."
+  },
+  {
+    "questions": ["Is there an additional cost for using learning disability services?"],
+    "answer": "No, free of charge."
+  },
+  {
+    "questions": ["How recent must a student’s disability testing be to qualify for accommodations?"],
+    "answer": "Typically within 3-5 years."
+  },
+  {
+    "questions": ["Are there specific requirements for disability testing?"],
+    "answer": "Testing must be conducted by a qualified professional."
+  },
+  {
+    "questions": ["What documentation is needed to access disability services?"],
+    "answer": "Diagnostic report and accommodation request form."
+  },
+  {
+    "questions": ["Is there a specific timeframe for submitting disability documentation?"],
+    "answer": "Preferably before semester starts, but rolling."
+  },
+  {
+    "questions": ["Can students with past testing still receive accommodations?"],
+    "answer": "Yes, if the disability is still impacting learning."
+  },
+  {
+    "questions": ["What can I expect from your school's career services office?"],
+    "answer": "Career counseling, resume help, job search tools, and employer connections."
+  },
+  {
+    "questions": ["How does the career services office assist students?"],
+    "answer": "Workshops, career fairs, and one-on-one coaching."
+  },
+  {
+    "questions": ["Do you offer help with resume writing and job searches?"],
+    "answer": "Yes, both in-person and online resources."
+  },
+  {
+    "questions": ["Are there career fairs and networking events?"],
+    "answer": "Yes, twice a year plus industry-specific events."
+  },
+  {
+    "questions": ["Can alumni access career services?"],
+    "answer": "Yes, for up to two years after graduation."
+  },
+  {
+    "questions": ["When can I access the career services office?"],
+    "answer": "From day one; open Monday-Friday 9-5."
+  },
+  {
+    "questions": ["Is career services available to freshmen?"],
+    "answer": "Yes, freshmen are encouraged to start early."
+  },
+  {
+    "questions": ["At what point in my college journey should I start using career services?"],
+    "answer": "First year for exploration; junior year for internships."
+  },
+  {
+    "questions": ["How frequently can students meet with career advisors?"],
+    "answer": "As often as needed, but appointments are limited during peak times."
+  },
+  {
+    "questions": ["Are there specific workshops or events offered by career services for students?"],
+    "answer": "Yes, on topics like LinkedIn, interview skills, and salary negotiation."
+  },
+  {
+    "questions": ["How active is the alumni network?"],
+    "answer": "Very active with 20,000+ members worldwide."
+  },
+  {
+    "questions": ["Do alumni stay connected with the college?"],
+    "answer": "Yes, through events, giving, and mentoring."
+  },
+  {
+    "questions": ["What benefits does the alumni network offer?"],
+    "answer": "Job referrals, networking, and continuing education discounts."
+  },
+  {
+    "questions": ["Are there networking opportunities for current students with alumni?"],
+    "answer": "Yes, alumni panels and mentorship program."
+  },
+  {
+    "questions": ["Can alumni provide mentorship or job opportunities to current students?"],
+    "answer": "Yes, many alumni volunteer as mentors and recruiters."
+  },
+  {
+    "questions": ["Is the career services office available for alumni?"],
+    "answer": "Yes, but with limited services compared to current students."
+  },
+  {
+    "questions": ["Can alumni access career support after graduation?"],
+    "answer": "Yes, online resources and career fairs."
+  },
+  {
+    "questions": ["Are there specific services for recent graduates?"],
+    "answer": "Yes, job listings and alumni career coaching."
+  },
+  {
+    "questions": ["What resources are available for alumni career advancement?"],
+    "answer": "Webinars, salary surveys, and job portals."
+  },
+  {
+    "questions": ["How does the college support alumni in their career goals?"],
+    "answer": "Through lifelong learning and alumni career center."
+  },
+  {
+    "questions": ["What percentage of students get internships?"],
+    "answer": "About 70% complete at least one internship."
+  },
+  {
+    "questions": ["Are internships common among students?"],
+    "answer": "Yes, strongly encouraged."
+  },
+  {
+    "questions": ["Is there a strong focus on internships?"],
+    "answer": "Yes, internship is a graduation requirement for some majors."
+  },
+  {
+    "questions": ["How does the college facilitate internship opportunities?"],
+    "answer": "Internship portal, employer partnerships, and career fairs."
+  },
+  {
+    "questions": ["Can students receive academic credit for internships?"],
+    "answer": "Yes, for eligible internships (up to 3 credits)."
+  },
+  {
+    "questions": ["Is there a co-op program?"],
+    "answer": "Yes, in engineering and business."
+  },
+  {
+    "questions": ["Do you offer cooperative education opportunities?"],
+    "answer": "Yes, paid work terms integrated with academics."
+  },
+  {
+    "questions": ["How do co-op programs work?"],
+    "answer": "Alternate semesters of study and full-time work."
+  },
+  {
+    "questions": ["What are the benefits of participating in a co-op?"],
+    "answer": "Graduate with experience and often a job offer."
+  },
+  {
+    "questions": ["Can students earn academic credit through co-op experiences?"],
+    "answer": "Yes, typically 1-3 credits per work term."
+  },
+  {
+    "questions": ["What is the job placement rate?"],
+    "answer": "85% of graduates find jobs within 6 months."
+  },
+  {
+    "questions": ["How many students find employment after graduation?"],
+    "answer": "85%."
+  },
+  {
+    "questions": ["Is the job placement rate high?"],
+    "answer": "Yes, well above national average."
+  },
+  {
+    "questions": ["What percentage of graduates secure jobs within a specific timeframe?"],
+    "answer": "75% within 3 months, 85% within 6 months."
+  },
+  {
+    "questions": ["How does the college track job placement rates?"],
+    "answer": "Annual alumni survey and employment verification."
+  },
+  {
+    "questions": ["How is the job placement rate calculated?"],
+    "answer": "Number employed divided by number seeking employment."
+  },
+  {
+    "questions": ["What factors contribute to the job placement rate?"],
+    "answer": "Major, GPA, internships, and networking."
+  },
+  {
+    "questions": ["Is the job placement rate based on graduates' first job after college?"],
+    "answer": "Yes, within 6 months of graduation."
+  },
+  {
+    "questions": ["Are part-time or temporary jobs counted in the job placement rate?"],
+    "answer": "Only if they are career-related."
+  },
+  {
+    "questions": ["Does the college verify job placement data?"],
+    "answer": "Yes, through employer confirmation and alumni reports."
+  },
+  {
+    "questions": ["Are the figures self-reported?"],
+    "answer": "Partly; we also contact employers."
+  },
+  {
+    "questions": ["Do graduates provide job placement data voluntarily?"],
+    "answer": "Yes, via surveys and LinkedIn updates."
+  },
+  {
+    "questions": ["How does the college collect job placement information?"],
+    "answer": "Online surveys, phone calls, and National Student Clearinghouse."
+  },
+  {
+    "questions": ["Is the job placement rate audited or verified externally?"],
+    "answer": "Audited by the state education department."
+  },
+  {
+    "questions": ["Are there any known discrepancies in self-reported job placement rates?"],
+    "answer": "Minimal; we verify a sample each year."
+  },
+  {
+    "questions": ["What percentage of students go on to graduate or professional schools?"],
+    "answer": "20% pursue graduate degrees."
+  },
+  {
+    "questions": ["Do many students pursue advanced degrees after graduation?"],
+    "answer": "Yes, about 1 in 5."
+  },
+  {
+    "questions": ["What proportion of graduates continue their education?"],
+    "answer": "20%."
+  },
+  {
+    "questions": ["Are there specific programs to support students applying to graduate school?"],
+    "answer": "GRE prep, grad school fairs, and advising."
+  },
+  {
+    "questions": ["How does the college assist students in the graduate school application process?"],
+    "answer": "Letter of recommendation workshops and mock interviews."
+  },
+  {
+    "questions": ["What are your school's feeder institutions for graduate and professional degrees?"],
+    "answer": "State University, Ivy League, and top tech institutes."
+  },
+  {
+    "questions": ["Which graduate schools do students commonly attend from your college?"],
+    "answer": "Stanford, MIT, Harvard, and local universities."
+  },
+  {
+    "questions": ["Are there specific universities where your graduates often pursue advanced degrees?"],
+    "answer": "Yes, a list is available in the career center."
+  },
+  {
+    "questions": ["Do you have partnerships with graduate schools or professional programs?"],
+    "answer": "Yes, articulation agreements for master's programs."
+  },
+  {
+    "questions": ["Are there any joint programs with other universities?"],
+    "answer": "3+2 engineering program with a partner university."
+  },
+  {
+    "questions": ["What kind of housing choices are there?"],
+    "answer": "Traditional dorms, suites, apartments, and theme houses."
+  },
+  {
+    "questions": ["Are there different housing options for students?"],
+    "answer": "Yes, with varying costs and amenities."
+  },
+  {
+    "questions": ["What types of housing are available?"],
+    "answer": "Single, double, triple, and studio apartments."
+  },
+  {
+    "questions": ["Do you offer single rooms or shared rooms?"],
+    "answer": "Both, but singles are limited."
+  },
+  {
+    "questions": ["Are there specialized housing options for honors students or specific majors?"],
+    "answer": "Yes, honors housing and engineering living-learning community."
+  },
+  {
+    "questions": ["What percentage of students live in campus housing?"],
+    "answer": "45% of all students."
+  },
+  {
+    "questions": ["Do many students choose to live on campus?"],
+    "answer": "Yes, especially freshmen."
+  },
+  {
+    "questions": ["Is on-campus housing available for all four years?"],
+    "answer": "Yes, but priority goes to underclassmen."
+  },
+  {
+    "questions": ["Do upperclassmen commonly live on campus?"],
+    "answer": "Some do, but many move off-campus."
+  },
+  {
+    "questions": ["How does the college guarantee on-campus housing for freshmen?"],
+    "answer": "First-year housing guarantee if application is on time."
+  },
+  {
+    "questions": ["Are dormitories an option after freshman year?"],
+    "answer": "Yes, but spaces are limited."
+  },
+  {
+    "questions": ["Can sophomores, juniors, and seniors live in dorms?"],
+    "answer": "Yes, but they often prefer apartments."
+  },
+  {
+    "questions": ["What housing options are available for upperclassmen?"],
+    "answer": "University apartments and suite-style residences."
+  },
+  {
+    "questions": ["Is there a housing priority system based on class standing?"],
+    "answer": "Yes, freshmen first, then others by lottery."
+  },
+  {
+    "questions": ["Can students continue living with the same roommate in subsequent years?"],
+    "answer": "Yes, by mutual request."
+  },
+  {
+    "questions": ["How are roommates assigned?"],
+    "answer": "Via a housing questionnaire and preferences."
+  },
+  {
+    "questions": ["Is there a roommate matching process?"],
+    "answer": "Yes, using lifestyle and academic preferences."
+  },
+  {
+    "questions": ["Can students choose their own roommates?"],
+    "answer": "Yes, by submitting a roommate group request."
+  },
+  {
+    "questions": ["What factors are considered when assigning roommates?"],
+    "answer": "Sleep schedule, study habits, cleanliness, and interests."
+  },
+  {
+    "questions": ["Is there a survey to match roommates based on compatibility?"],
+    "answer": "Yes, the Roommate Matching Survey."
+  },
+  {
+    "questions": ["What mental health services are available?"],
+    "answer": "Counseling, crisis intervention, support groups, and psychiatry referrals."
+  },
+  {
+    "questions": ["Is there a counseling center on campus?"],
+    "answer": "Yes, free and confidential."
+  },
+  {
+    "questions": ["Do you offer mental health support for students?"],
+    "answer": "Yes, individual and group therapy."
+  },
+  {
+    "questions": ["How can students access mental health services?"],
+    "answer": "Call, walk-in, or online appointment."
+  },
+  {
+    "questions": ["Are there counseling resources for students experiencing stress or anxiety?"],
+    "answer": "Yes, stress management workshops and crisis line."
+  },
+  {
+    "questions": ["What are the meal plan options?"],
+    "answer": "7-day, 5-day, and block plans; also vegetarian and halal options."
+  },
+  {
+    "questions": ["Do you offer different meal plans?"],
+    "answer": "Yes, 4 tiers to choose from."
+  },
+  {
+    "questions": ["Can students choose their meal plans?"],
+    "answer": "Yes, each semester."
+  },
+  {
+    "questions": ["Are there meal plans for students with dietary restrictions?"],
+    "answer": "Yes, allergen-free stations and kosher options."
+  },
+  {
+    "questions": ["Is there a variety of dining options on campus?"],
+    "answer": "Yes, 5 dining venues including a food court."
+  },
+  {
+    "questions": ["What percentage of students belong to a sorority or fraternity?"],
+    "answer": "12%."
+  },
+  {
+    "questions": ["Is Greek life popular on campus?"],
+    "answer": "Moderately popular, but not dominant."
+  },
+  {
+    "questions": ["How many students are involved in Greek organizations?"],
+    "answer": "About 500 students."
+  },
+  {
+    "questions": ["What Greek organizations are active on campus?"],
+    "answer": "Alpha, Beta, Gamma, and Delta chapters."
+  },
+  {
+    "questions": ["Are there any requirements to join a sorority or fraternity?"],
+    "answer": "Minimum GPA 2.5 and recruitment process."
+  },
+  {
+    "questions": ["How prevalent are drugs and alcohol on campus?"],
+    "answer": "Low prevalence; strict enforcement of substance-free policy."
+  },
+  {
+    "questions": ["Is substance use a significant issue on campus?"],
+    "answer": "No, it's not a major problem."
+  },
+  {
+    "questions": ["What efforts does the college make to address drug and alcohol use?"],
+    "answer": "Education programs, counseling, and random dorm checks."
+  },
+  {
+    "questions": ["Are there substance-free housing options?"],
+    "answer": "Yes, wellness floors in dorms."
+  },
+  {
+    "questions": ["What resources are available for students struggling with substance use?"],
+    "answer": "Counseling and referral to treatment programs."
+  },
+  {
+    "questions": ["Can freshmen bring a car to campus?"],
+    "answer": "Yes, but parking permits are limited."
+  },
+  {
+    "questions": ["Is parking available for freshman students?"],
+    "answer": "Yes, but on a first-come basis."
+  },
+  {
+    "questions": ["What are the rules for having a car on campus?"],
+    "answer": "Register vehicle, display permit, obey speed limits."
+  },
+  {
+    "questions": ["Is there a parking fee for students?"],
+    "answer": "$100 per semester."
+  },
+  {
+    "questions": ["Are there any restrictions on car usage for freshmen?"],
+    "answer": "No, but they cannot park in resident lots overnight without permit."
+  },
+  {
+    "questions": ["What percentage of a student’s financial need does the school typically meet?"],
+    "answer": "We meet 90% of demonstrated need on average."
+  },
+  {
+    "questions": ["Does the college meet full demonstrated financial need?"],
+    "answer": "Not always, but we meet a high percentage."
+  },
+  {
+    "questions": ["How does the college determine financial aid packages?"],
+    "answer": "Using FAFSA/CSS profile and institutional methodology."
+  },
+  {
+    "questions": ["Are there specific grants or scholarships for financial need?"],
+    "answer": "Yes, need-based grants and Pell grants."
+  },
+  {
+    "questions": ["Is financial aid renewable for all four years?"],
+    "answer": "Yes, provided FAFSA is filed and academic progress is met."
+  },
+  {
+    "questions": ["Does the percentage of need that you meet typically shrink after freshman year?"],
+    "answer": "No, it remains consistent unless family income changes."
+  },
+  {
+    "questions": ["Will the financial aid package decrease in subsequent years?"],
+    "answer": "Usually only if outside scholarships increase or EFC changes."
+  },
+  {
+    "questions": ["How does the college handle financial aid changes after the first year?"],
+    "answer": "Recalculated annually based on updated FAFSA."
+  },
+  {
+    "questions": ["Is there a possibility of receiving less aid in later years?"],
+    "answer": "Yes, if family income rises or merit scholarship expires."
+  },
+  {
+    "questions": ["What happens if financial circumstances change after freshman year?"],
+    "answer": "File an appeal with documentation."
+  },
+  {
+    "questions": ["What percentage of a student’s financial need does the school meet with grants and scholarships?"],
+    "answer": "About 80% of need is met by grants/scholarships (no repayment)."
+  },
+  {
+    "questions": ["Is financial aid primarily need-based or merit-based?"],
+    "answer": "Both; need-based for low-income, merit for high-achieving."
+  },
+  {
+    "questions": ["Are there specific scholarships for academic achievements?"],
+    "answer": "Yes, Presidential and Dean's scholarships."
+  },
+  {
+    "questions": ["How can students find information about available scholarships?"],
+    "answer": "Financial aid website and scholarship portal."
+  },
+  {
+    "questions": ["Does the college offer renewable merit scholarships?"],
+    "answer": "Yes, renewable for 4 years with GPA requirement."
+  },
+  {
+    "questions": ["What is the average financial aid package?"],
+    "answer": "$15,000 per year (grants + scholarships + loans)."
+  },
+  {
+    "questions": ["What is the typical amount of aid offered to students?"],
+    "answer": "Varies, but average is $15,000."
+  },
+  {
+    "questions": ["How much financial aid can a student expect to receive?"],
+    "answer": "Depends on need and merit; ranges $5k-$30k."
+  },
+  {
+    "questions": ["Are there any scholarships or grants offered automatically to all students?"],
+    "answer": "No, only based on application and FAFSA."
+  },
+  {
+    "questions": ["How does the college determine the components of a financial aid package?"],
+    "answer": "Using cost of attendance minus EFC."
+  },
+  {
+    "questions": ["What is the typical breakdown of loans versus grants in a financial aid package?"],
+    "answer": "60% grants/scholarships, 40% loans."
+  },
+  {
+    "questions": ["Are financial aid packages primarily comprised of loans?"],
+    "answer": "No, we prioritize grants."
+  },
+  {
+    "questions": ["How much of the aid offered is in the form of grants?"],
+    "answer": "About 60%."
+  },
+  {
+    "questions": ["Do students receive more loans or grants?"],
+    "answer": "More grant aid than loans for need-based students."
+  },
+  {
+    "questions": ["Are there any scholarships that do not require repayment?"],
+    "answer": "Yes, all grants and scholarships are gift aid."
+  },
+  {
+    "questions": ["What is the average merit award?"],
+    "answer": "$8,000 per year."
+  },
+  {
+    "questions": ["How much merit-based aid does the college typically offer?"],
+    "answer": "From $2,000 to full tuition."
+  },
+  {
+    "questions": ["Is there a typical amount for merit scholarships?"],
+    "answer": "Median $8,000."
+  },
+  {
+    "questions": ["Do students need to maintain specific requirements to keep merit awards?"],
+    "answer": "Yes, minimum 3.0 GPA and full-time enrollment."
+  },
+  {
+    "questions": ["Can students receive multiple merit scholarships?"],
+    "answer": "Yes, but total cannot exceed cost of attendance."
+  },
+  {
+    "questions": ["What are the requirements to receive a merit scholarship?"],
+    "answer": "High school GPA 3.5+, SAT 1200+, or top 20% of class."
+  },
+  {
+    "questions": ["How can students qualify for merit-based aid?"],
+    "answer": "Automatic consideration with admission application."
+  },
+  {
+    "questions": ["Are there specific GPA or test score requirements for merit scholarships?"],
+    "answer": "Yes, listed on the scholarship webpage."
+  },
+  {
+    "questions": ["Do students need to submit separate applications for merit scholarships?"],
+    "answer": "Some require separate essays."
+  },
+  {
+    "questions": ["When will students find out if they received a merit scholarship?"],
+    "answer": "With admission decision letter."
+  },
+  {
+    "questions": ["Do merit scholarships require separate applications?"],
+    "answer": "For some, yes; for others, automatic."
+  },
+  {
+    "questions": ["How can students renew their merit scholarships?"],
+    "answer": "Maintain GPA and credit requirements; no new application."
+  },
+  {
+    "questions": ["What are the renewal criteria for merit awards?"],
+    "answer": "Cumulative GPA 3.0 and 12 credits per semester."
+  },
+  {
+    "questions": ["Can students lose their merit scholarships?"],
+    "answer": "Yes, if GPA drops below 3.0."
+  },
+  {
+    "questions": ["How often are merit scholarships renewed?"],
+    "answer": "Annually, up to 4 years."
+  },
+  {
+    "questions": ["What happens to my financial aid package if I take longer than four years to graduate?"],
+    "answer": "Aid may continue for up to 6 years if making satisfactory progress."
+  },
+  {
+    "questions": ["Can students receive financial aid beyond four years?"],
+    "answer": "Yes, but limited to 150% of program length."
+  },
+  {
+    "questions": ["Is financial aid available for students who need more time to graduate?"],
+    "answer": "Yes, with academic appeal."
+  },
+  {
+    "questions": ["What happens if a student takes a gap year?"],
+    "answer": "Aid is suspended and must reapply upon return."
+  },
+  {
+    "questions": ["Can students still receive aid for additional semesters or years?"],
+    "answer": "Yes, up to the maximum timeframe."
+  },
+  {
+    "questions": ["What percentage of students receive grants and/or scholarships?"],
+    "answer": "85% of students receive some form of gift aid."
+  },
+  {
+    "questions": ["How many students are awarded financial aid?"],
+    "answer": "90% of students receive some aid (loans included)."
+  },
+  {
+    "questions": ["Is financial aid common among students?"],
+    "answer": "Yes, very common."
+  },
+  {
+    "questions": ["What proportion of students receive scholarships?"],
+    "answer": "65% receive merit or need-based scholarships."
+  },
+  {
+    "questions": ["What percentage of students receive need-based aid?"],
+    "answer": "55%."
+  },
+  {
+    "questions": ["What is the average amount of loan debt that students accumulate?"],
+    "answer": "$25,000 total for four years."
+  },
+  {
+    "questions": ["How much student loan debt do graduates typically have?"],
+    "answer": "$25,000 average."
+  },
+  {
+    "questions": ["Is the average loan debt manageable?"],
+    "answer": "Yes, below national average."
+  },
+  {
+    "questions": ["What percentage of students graduate with student loans?"],
+    "answer": "60%."
+  },
+  {
+    "questions": ["Are there resources to help students manage loan repayment?"],
+    "answer": "Exit counseling and repayment webinars."
+  },
+  {
+    "questions": ["What is the average amount of Federal PLUS Loan debt borrowed by parents?"],
+    "answer": "$12,000 total."
+  },
+  {
+    "questions": ["How much debt do parents typically incur through Federal PLUS Loans?"],
+    "answer": "$12,000 on average."
+  },
+  {
+    "questions": ["Are there alternative options for parents to finance college costs?"],
+    "answer": "Private loans, payment plans, home equity."
+  },
+  {
+    "questions": ["What resources are available for parents to manage loan repayment?"],
+    "answer": "PLUS loan counseling and deferment options."
+  },
+  {
+    "questions": ["Can parents apply for Federal PLUS Loans each year?"],
+    "answer": "Yes, annually."
+  },
+  {
+    "questions": ["What are the work-study opportunities?"],
+    "answer": "On-campus jobs like library, lab assistant, admin, etc."
+  },
+  {
+    "questions": ["Does the college offer work-study programs?"],
+    "answer": "Yes, federal and institutional work-study."
+  },
+  {
+    "questions": ["How can students participate in work-study?"],
+    "answer": "Indicate interest on FAFSA and accept award."
+  },
+  {
+    "questions": ["Are work-study jobs related to students' majors?"],
+    "answer": "Sometimes, but not guaranteed."
+  },
+  {
+    "questions": ["What is the average hourly wage for work-study positions?"],
+    "answer": "$10-15 per hour."
+  },
+  {
+    "questions": ["At what pace has the annual tuition rate risen in recent years?"],
+    "answer": "About 3% per year on average."
+  },
+  {
+    "questions": ["How much does tuition increase each year?"],
+    "answer": "Around $300-500 per year."
+  },
+  {
+    "questions": ["Is there a steady tuition rate increase over time?"],
+    "answer": "Yes, modest and predictable."
+  },
+  {
+    "questions": ["What factors contribute to tuition rate changes?"],
+    "answer": "Inflation, faculty salaries, facility upgrades."
+  },
+  {
+    "questions": ["Is there a tuition rate freeze for current students?"],
+    "answer": "No, but increases are capped at 5%."
+  },
+  {
+    "questions": ["Do you award extra scholarships for specific majors and talents?"],
+    "answer": "Yes, for STEM majors, athletes, musicians, artists."
+  },
+  {
+    "questions": ["Are there scholarships available for students in certain academic disciplines?"],
+    "answer": "Yes, departmental scholarships."
+  },
+  {
+    "questions": ["Is there financial aid for students with special talents, such as athletics or the arts?"],
+    "answer": "Yes, talent-based scholarships."
+  },
+  {
+    "questions": ["How can students apply for scholarships related to their majors or talents?"],
+    "answer": "Complete the general scholarship application and portfolio/audition if required."
+  },
+  {
+    "questions": ["Are scholarships renewable for all four years?"],
+    "answer": "Yes, subject to renewal criteria."
+  },
+  {
+    "questions": ["Where can I learn more about your merit scholarships?"],
+    "answer": "Visit our financial aid website or contact the scholarship office."
+  },
+  {
+    "questions": ["Is there a centralized list of available merit scholarships?"],
+    "answer": "Yes, on the scholarship portal."
+  },
+  {
+    "questions": ["How can students find information about available merit awards?"],
+    "answer": "Use the scholarship search tool."
+  },
+  {
+    "questions": ["Are there specific scholarships for high-achieving students?"],
+    "answer": "Yes, Honors College scholarships."
+  },
+  {
+    "questions": ["Are there scholarships for students with exceptional leadership or community service records?"],
+    "answer": "Yes, leadership and service scholarships."
+  },
+  {
+    "questions": ["Does your net price calculator provide an accurate estimate of what your school will cost me?"],
+    "answer": "It provides a good estimate based on typical aid, but individual packages may vary."
+  },
+  {
+    "questions": ["Can I rely on the net price calculator results?"],
+    "answer": "As a guide, not a guarantee."
+  },
+  {
+    "questions": ["How accurate is the net price calculator?"],
+    "answer": "Within 10-15% for most students."
+  },
+  {
+    "questions": ["What factors does the net price calculator consider?"],
+    "answer": "Income, assets, household size, and GPA."
+  },
+  {
+    "questions": ["Does the net price calculator consider scholarships and grants?"],
+    "answer": "Yes, estimates need-based and merit aid."
+  },
+  {
+    "questions": ["When did you last update the net price calculator?"],
+    "answer": "Updated annually before fall application cycle."
+  },
+  {
+    "questions": ["How often is the net price calculator data reviewed and updated?"],
+    "answer": "Yearly, with tuition and aid changes."
+  },
+  {
+    "questions": ["Are there any changes to the net price calculator planned?"],
+    "answer": "We continuously improve accuracy."
+  },
+  {
+    "questions": ["Is the net price calculator based on current tuition rates?"],
+    "answer": "Yes, for the upcoming academic year."
+  },
+  {
+    "questions": ["Can I use the net price calculator for the upcoming academic year?"],
+    "answer": "Yes, once the new version is released in August."
+  },
+  {
+    "questions": ["Does your institution give athletic scholarships?"],
+    "answer": "Yes, for Division I sports like basketball, soccer, track."
+  },
+  {
+    "questions": ["Are there scholarships available for student-athletes?"],
+    "answer": "Yes, partial and full scholarships."
+  },
+  {
+    "questions": ["How can student-athletes apply for athletic scholarships?"],
+    "answer": "Contact the athletics department or coach."
+  },
+  {
+    "questions": ["Are athletic scholarships renewable?"],
+    "answer": "Yes, annually based on performance and eligibility."
+  },
+  {
+    "questions": ["What sports are eligible for athletic scholarships?"],
+    "answer": "Football, basketball, soccer, swimming, tennis, track & field."
+  },
+  {
+    "questions": ["What is the student loan default rate?"],
+    "answer": "5.2% (well below national average)."
+  },
+  {
+    "questions": ["How many students default on their student loans?"],
+    "answer": "About 5% of borrowers."
+  },
+  {
+    "questions": ["Is the student loan default rate a concern at your college?"],
+    "answer": "No, it's very low."
+  },
+  {
+    "questions": ["What actions does the college take to prevent student loan defaults?"],
+    "answer": "Financial literacy courses and exit counseling."
+  },
+  {
+    "questions": ["Are there resources available to help students with loan repayment?"],
+    "answer": "Yes, repayment plan simulators and loan counseling."
+  },
+  {
+    "questions": ["Does your institution provide students with financial literacy training?"],
+    "answer": "Yes, required workshop for first-year students."
+  },
+  {
+    "questions": ["Are there financial literacy workshops available?"],
+    "answer": "Yes, monthly sessions on budgeting, credit, loans."
+  },
+  {
+    "questions": ["How does the college educate students about managing finances?"],
+    "answer": "Online modules, peer financial coaching, and seminars."
+  },
+  {
+    "questions": ["Are there resources to help students make informed financial decisions?"],
+    "answer": "CashCourse platform and financial aid counselors."
+  },
+  {
+    "questions": ["Does the college offer courses on financial literacy?"],
+    "answer": "Yes, a 1-credit elective course."
+  },
+  {
+    "questions": ["Why did you decide to attend this school?"],
+    "answer": "Students often cite academic reputation, location, and scholarship opportunities."
+  },
+  {
+    "questions": ["What factors influenced your college choice?"],
+    "answer": "Cost, programs, campus culture, and career outcomes."
+  },
+  {
+    "questions": ["What made you choose this college over others?"],
+    "answer": "Personal fit, strong placement record, and supportive faculty."
+  },
+  {
+    "questions": ["Were there specific programs or opportunities that attracted you to this college?"],
+    "answer": "Yes, the co-op program, study abroad, and research labs."
+  },
+  {
+    "questions": ["How did you feel when you visited the campus?"],
+    "answer": "Students often say they felt welcomed and excited."
+  },
+  {
+    "questions": ["If you could change anything about the school, what would it be?"],
+    "answer": "Some students wish for more dining options and later library hours."
+  },
+  {
+    "questions": ["Is there anything you wish was different about the college?"],
+    "answer": "More parking spaces and updated dorm furniture."
+  },
+  {
+    "questions": ["Are there any improvements you'd like to see at the college?"],
+    "answer": "Expanded Wi-Fi coverage and more internships."
+  },
+  {
+    "questions": ["What aspects of the college do you think could be enhanced?"],
+    "answer": "Career services and mental health resources are always being improved."
+  },
+  {
+    "questions": ["Is there anything you find lacking or wish the college had?"],
+    "answer": "A late-night café and more campus shuttles."
+  },
+  {
+    "questions": ["What do you like the most about your school?"],
+    "answer": "The friendly community and hands-on learning opportunities."
+  },
+  {
+    "questions": ["What are the best aspects of the college?"],
+    "answer": "Small class sizes, dedicated professors, and beautiful campus."
+  },
+  {
+    "questions": ["What makes you happiest about attending this college?"],
+    "answer": "The friendships and the supportive environment."
+  },
+  {
+    "questions": ["What experiences or opportunities do you enjoy the most?"],
+    "answer": "Internships, student clubs, and sports events."
+  },
+  {
+    "questions": ["What are the highlights of your college experience?"],
+    "answer": "Capstone project, study abroad, and cultural festivals."
+  },
+  {
+    "questions": ["What do you like the least about your school?"],
+    "answer": "Some buildings need renovation, and parking is limited."
+  },
+  {
+    "questions": ["What aspects of the college could be improved?"],
+    "answer": "The registration system could be faster."
+  },
+  {
+    "questions": ["What are some challenges or drawbacks you've experienced at the college?"],
+    "answer": "Occasional administrative delays and crowded cafeteria."
+  },
+  {
+    "questions": ["Is there anything you find frustrating or disappointing?"],
+    "answer": "Limited lab equipment in some departments."
+  },
+  {
+    "questions": ["What aspects of the college do you think could be better?"],
+    "answer": "More scholarship opportunities for middle-income students."
+  },
+  {
+    "questions": ["What students succeed on your campus?"],
+    "answer": "Students who are proactive, use resources, and engage with faculty."
+  },
+  {
+    "questions": ["What qualities do successful students have?"],
+    "answer": "Time management, curiosity, and persistence."
+  },
+  {
+    "questions": ["Is there a specific type of student that thrives at the college?"],
+    "answer": "Self-motivated learners who enjoy collaboration."
+  },
+  {
+    "questions": ["What characteristics contribute to student success?"],
+    "answer": "Attendance, participation, and seeking help when needed."
+  },
+  {
+    "questions": ["How does the college support student success?"],
+    "answer": "Through advising, tutoring, and early alert systems."
+  },
+  {
+    "questions": ["What students don't fit in at your college?"],
+    "answer": "Those who dislike structured environments may struggle."
+  },
+  {
+    "questions": ["Is there a type of student that might feel out of place?"],
+    "answer": "Extremely introverted students might find the social scene overwhelming."
+  },
+  {
+    "questions": ["Are there any challenges or obstacles some students face in adjusting to the college?"],
+    "answer": "Homesickness and academic rigor are common challenges."
+  },
+  {
+    "questions": ["What support is available for students who don't feel like they fit in?"],
+    "answer": "Counseling, student clubs, and diversity programs."
+  },
+  {
+    "questions": ["How does the college promote inclusivity and a sense of belonging?"],
+    "answer": "Through cultural events, safe spaces, and bias response teams."
+  },
+  {
+    "questions": ["What teenagers would you recommend your school to?"],
+    "answer": "Students who are curious, driven, and open to new experiences."
+  },
+  {
+    "questions": ["Who do you think would thrive at this college?"],
+    "answer": "Those who value both academics and community."
+  },
+  {
+    "questions": ["What type of students would fit well with the college's culture?"],
+    "answer": "Collaborative, ambitious, and respectful individuals."
+  },
+  {
+    "questions": ["Are there specific qualities or interests that make a student a good fit for the college?"],
+    "answer": "Leadership potential, academic curiosity, and a desire to make an impact."
+  },
+  {
+    "questions": ["Who should consider applying to this college?"],
+    "answer": "Any student seeking a balanced college experience with strong career outcomes."
+  },
+  {
+    "questions": ["Does demonstrated interest play a role in the admission process?"],
+    "answer": "Yes, it is considered but not a major factor."
+  },
+  {
+    "questions": ["How important is demonstrating interest in the college?"],
+    "answer": "Moderately important; can help in close decisions."
+  },
+  {
+    "questions": ["Does the college consider demonstrated interest in their admissions decisions?"],
+    "answer": "Yes, we track campus visits, info sessions, and emails."
+  },
+  {
+    "questions": ["What are some examples of demonstrated interest?"],
+    "answer": "Visiting campus, attending virtual events, emailing admissions."
+  },
+  {
+    "questions": ["How can prospective students show interest in the college?"],
+    "answer": "Sign up for tours, open houses, and follow on social media."
+  },
+  {
+    "questions": ["Are there any exceptions to your test-optional policy?"],
+    "answer": "Homeschooled students may need to submit scores; international students need English proficiency."
+  },
+  {
+    "questions": ["Does the college have any requirements for submitting test scores?"],
+    "answer": "No, test-optional for all domestic applicants."
+  },
+  {
+    "questions": ["Are certain applicants required to submit test scores?"],
+    "answer": "Only for specific scholarships that require test scores."
+  },
+  {
+    "questions": ["Is the test-optional policy applicable to all majors?"],
+    "answer": "Yes, for all majors."
+  },
+  {
+    "questions": ["Can international students choose to submit test scores?"],
+    "answer": "Yes, they can choose, but must show English proficiency."
+  },
+  {
+    "questions": ["Does legacy play a part in admissions, and if so, who is considered legacy?"],
+    "answer": "Yes, children or grandchildren of alumni are legacy."
+  },
+  {
+    "questions": ["Are children of alumni given preference in the admissions process?"],
+    "answer": "Slight preference, but not guaranteed."
+  },
+  {
+    "questions": ["What benefits do legacy students receive in admissions?"],
+    "answer": "Holistic review may consider legacy as a plus factor."
+  },
+  {
+    "questions": ["How is legacy status taken into account during admissions?"],
+    "answer": "It's noted in the application and considered alongside other factors."
+  },
+  {
+    "questions": ["Is legacy status a significant factor in the decision-making process?"],
+    "answer": "It is a tiebreaker, not a primary factor."
+  },
+  {
+    "questions": ["Do admissions interviews, if offered, play a role in the process?"],
+    "answer": "Yes, interviews are evaluative and can influence decision."
+  },
+  {
+    "questions": ["How important are admissions interviews in the evaluation?"],
+    "answer": "Moderately important; they show interest and personality."
+  },
+  {
+    "questions": ["Are interviews considered in admissions decisions?"],
+    "answer": "Yes, they are part of the holistic review."
+  },
+  {
+    "questions": ["What is the purpose of admissions interviews?"],
+    "answer": "To assess fit and answer applicant questions."
+  },
+  {
+    "questions": ["Who conducts admissions interviews, and how are they evaluated?"],
+    "answer": "Trained alumni or admission staff; evaluation is narrative."
+  },
+  {
+    "questions": ["Are there any majors for which enrollment is capped?"],
+    "answer": "Yes, CSE, AI/ML, and Nursing have caps."
+  },
+  {
+    "questions": ["Do certain majors have limited capacity?"],
+    "answer": "Yes, due to lab space and faculty resources."
+  },
+  {
+    "questions": ["Is there a limit on the number of students accepted into certain programs?"],
+    "answer": "Yes, for impacted majors."
+  },
+  {
+    "questions": ["What happens if a major is at full capacity?"],
+    "answer": "Students may be waitlisted or offered a related major."
+  },
+  {
+    "questions": ["Are there waitlists for impacted majors?"],
+    "answer": "Yes, and students are admitted if spots open."
+  },
+  {
+    "questions": ["Are classes taught by professors or teaching assistants?"],
+    "answer": "Professors for lectures; TAs assist in labs."
+  },
+  {
+    "questions": ["What is the average class size?"],
+    "answer": "35 students overall."
+  },
+  {
+    "questions": ["How/when do incoming freshmen get course selection advising for their first-semester classes?"],
+    "answer": "During summer orientation with advisors."
+  },
+  {
+    "questions": ["Who gets priority in the course registration process – is it by grade level, honors programs, etc.?"],
+    "answer": "Seniors first, then juniors, sophomores, freshmen. Honors students get earlier windows."
+  },
+  {
+    "questions": ["How many classes do students take a semester?"],
+    "answer": "4-5 classes (12-18 credits)."
+  },
+  {
+    "questions": ["Are classes more theoretical or hands-on in nature?"],
+    "answer": "Balanced; lower level theoretical, upper level hands-on."
+  },
+  {
+    "questions": ["What is the teaching style at the college?"],
+    "answer": "Mixture of lecture, discussion, and active learning."
+  },
+  {
+    "questions": ["Are students encouraged to engage in practical learning experiences?"],
+    "answer": "Yes, through labs, projects, and internships."
+  },
+  {
+    "questions": ["Does the college emphasize real-world applications of knowledge?"],
+    "answer": "Yes, especially in professional programs."
+  },
+  {
+    "questions": ["Are there opportunities for internships and cooperative education?"],
+    "answer": "Yes, both are strongly promoted."
+  },
+  {
+    "questions": ["How easy is it to switch majors or schools within the university?"],
+    "answer": "Easy within the same college; harder across colleges."
+  },
+  {
+    "questions": ["Can students change their major if they discover new interests?"],
+    "answer": "Yes, by meeting with advisor and submitting a change form."
+  },
+  {
+    "questions": ["Is it difficult to change academic programs?"],
+    "answer": "No, but may delay graduation if done late."
+  },
+  {
+    "questions": ["Are there any limitations on switching majors?"],
+    "answer": "Impacted majors may have additional requirements."
+  },
+  {
+    "questions": ["What resources are available for students considering a change of major?"],
+    "answer": "Career assessments and major exploration workshops."
+  },
+  {
+    "questions": ["What is the breakdown of requirements for most majors?"],
+    "answer": "40% core courses, 30% major requirements, 20% electives, 10% general education."
+  },
+  {
+    "questions": ["How many credits do major requirements usually consist of?"],
+    "answer": "45-60 credits."
+  },
+  {
+    "questions": ["Are there common prerequisites for major programs?"],
+    "answer": "Yes, like calculus for STEM, composition for humanities."
+  },
+  {
+    "questions": ["What are the core courses for the major?"],
+    "answer": "Varies by major; available in the academic catalog."
+  },
+  {
+    "questions": ["Is there flexibility in choosing major electives?"],
+    "answer": "Yes, students can tailor electives to interests."
+  },
+  {
+    "questions": ["What percentage of students choose to study abroad?"],
+    "answer": "30%."
+  },
+  {
+    "questions": ["How popular is studying abroad among students?"],
+    "answer": "Very popular, with many options."
+  },
+  {
+    "questions": ["Is there a significant number of students who participate in study abroad programs?"],
+    "answer": "Yes, hundreds each year."
+  },
+  {
+    "questions": ["Are study abroad opportunities accessible to all students?"],
+    "answer": "Yes, with scholarships available for financial need."
+  },
+  {
+    "questions": ["What types of study abroad programs are available?"],
+    "answer": "Faculty-led, exchange, direct enroll, and internship."
+  },
+  {
+    "questions": ["What percentage of students successfully apply to graduate school?"],
+    "answer": "85% of those who apply are accepted."
+  },
+  {
+    "questions": ["Is the college known for strong graduate school placement?"],
+    "answer": "Yes, especially for STEM and pre-health."
+  },
+  {
+    "questions": ["How many students go on to pursue advanced degrees?"],
+    "answer": "20% of each graduating class."
+  },
+  {
+    "questions": ["Does the college offer resources and support for students applying to grad school?"],
+    "answer": "Yes, GRE prep and application workshops."
+  },
+  {
+    "questions": ["Are there specific programs to prepare students for graduate school applications?"],
+    "answer": "Yes, the Graduate School Preparation Program."
+  },
+  {
+    "questions": ["What kind of career planning services are available?"],
+    "answer": "Career counseling, mock interviews, job databases, and alumni mentoring."
+  },
+  {
+    "questions": ["Does the college offer career counseling?"],
+    "answer": "Yes, one-on-one sessions."
+  },
+  {
+    "questions": ["How does the college support students in career development?"],
+    "answer": "Through courses, fairs, and employer connections."
+  },
+  {
+    "questions": ["Are there resources for resume writing and interview preparation?"],
+    "answer": "Yes, online guides and in-person reviews."
+  },
+  {
+    "questions": ["What networking opportunities are provided?"],
+    "answer": "Career fairs, industry panels, and alumni networking nights."
+  }
+]
