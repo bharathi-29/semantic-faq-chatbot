@@ -11,58 +11,115 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Page Config
 # -----------------------------------
 st.set_page_config(
-    page_title="WhatsApp FAQ Bot",
+    page_title="University FAQ Chatbot",
     page_icon="💬",
-    layout="centered"
+    layout="centered",
+    initial_sidebar_state="collapsed"
 )
 
 # -----------------------------------
-# WhatsApp Style CSS
+# DARK THEME CSS
 # -----------------------------------
 st.markdown("""
 <style>
 
-html, body, [class*="css"] {
+/* Entire App */
+.stApp {
+    background-color: #0b141a;
+    color: white;
     font-family: Arial, sans-serif;
 }
 
+/* Main background */
 .main {
-    background-color: #ece5dd;
+    background-color: #0b141a;
 }
 
+/* Remove white top spacing */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 6rem;
+    max-width: 900px;
+}
+
+/* Title */
+.title {
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 30px;
+}
+
+/* Chat wrapper */
 .chat-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
     padding-bottom: 100px;
 }
 
+/* USER MESSAGE */
 .user-msg {
-    background-color: #DCF8C6;
-    padding: 10px 14px;
-    border-radius: 12px;
-    margin: 8px 0;
+    background-color: #005c4b;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 14px;
     width: fit-content;
     max-width: 75%;
     margin-left: auto;
-    color: black;
     font-size: 16px;
+    line-height: 1.5;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
 }
 
+/* BOT MESSAGE */
 .bot-msg {
-    background-color: white;
-    padding: 10px 14px;
-    border-radius: 12px;
-    margin: 8px 0;
+    background-color: #202c33;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 14px;
     width: fit-content;
     max-width: 75%;
     margin-right: auto;
-    color: black;
     font-size: 16px;
+    line-height: 1.5;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+/* Chat input container */
+.stChatInputContainer {
+    background-color: #111b21 !important;
+    border-top: 1px solid #222 !important;
+    padding: 10px !important;
+}
+
+/* Input box */
+textarea {
+    color: white !important;
+    background-color: #202c33 !important;
+}
+
+/* Placeholder */
+textarea::placeholder {
+    color: #aaaaaa !important;
+}
+
+/* Hide Streamlit Footer */
+footer {
+    visibility: hidden;
+}
+
+/* Hide Streamlit Menu */
+#MainMenu {
+    visibility: hidden;
 }
 
 </style>
 """, unsafe_allow_html=True)
 
 # -----------------------------------
-# Load Model
+# LOAD MODEL
 # -----------------------------------
 @st.cache_resource
 def load_model():
@@ -71,18 +128,17 @@ def load_model():
 model = load_model()
 
 # -----------------------------------
-# Load FAQ Data
+# LOAD FAQ DATA
 # -----------------------------------
 @st.cache_data
 def load_faq():
-
     with open("semantic_faq.json", "r", encoding="utf-8") as file:
         return json.load(file)
 
 faq_data = load_faq()
 
 # -----------------------------------
-# Prepare Questions & Answers
+# PREPARE QUESTIONS & ANSWERS
 # -----------------------------------
 questions = []
 answers = []
@@ -95,21 +151,21 @@ for item in faq_data:
         answers.append(item["answer"])
 
 # -----------------------------------
-# Cache Embeddings
+# CREATE EMBEDDINGS
 # -----------------------------------
 @st.cache_resource
 def create_embeddings():
-
     return model.encode(questions)
 
 question_embeddings = create_embeddings()
 
 # -----------------------------------
-# Get Answer
+# GET ANSWER FUNCTION
 # -----------------------------------
 def get_answer(user_input, threshold=0.5):
 
     user_input = user_input.lower().strip()
+
     user_input = re.sub(r"[^\w\s]", "", user_input)
 
     user_embedding = model.encode([user_input])
@@ -129,18 +185,32 @@ def get_answer(user_input, threshold=0.5):
     return answers[best_match_idx]
 
 # -----------------------------------
-# Title
+# TITLE
 # -----------------------------------
-st.title("💬 University FAQ Chatbot")
+st.markdown(
+    """
+    <div class="title">
+        💬 University FAQ Chatbot
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # -----------------------------------
-# Session State
+# SESSION STATE
 # -----------------------------------
 if "messages" not in st.session_state:
+
     st.session_state.messages = []
 
+    # Initial bot message
+    st.session_state.messages.append({
+        "role": "assistant",
+        "content": "Hello! How can I help you?"
+    })
+
 # -----------------------------------
-# Display Messages
+# DISPLAY CHAT
 # -----------------------------------
 st.markdown('<div class="chat-wrapper">', unsafe_allow_html=True)
 
@@ -171,29 +241,29 @@ for msg in st.session_state.messages:
 st.markdown("</div>", unsafe_allow_html=True)
 
 # -----------------------------------
-# Chat Input
+# CHAT INPUT
 # -----------------------------------
 user_input = st.chat_input("Type your message...")
 
 # -----------------------------------
-# Handle Input
+# HANDLE USER INPUT
 # -----------------------------------
 if user_input:
 
-    # Add User Message
+    # Add user message
     st.session_state.messages.append({
         "role": "user",
         "content": user_input
     })
 
-    # Generate Response
+    # Generate response
     response = get_answer(user_input)
 
-    # Fake Typing Delay
+    # Typing animation
     with st.spinner("Typing..."):
         time.sleep(1)
 
-    # Add Bot Message
+    # Add bot response
     st.session_state.messages.append({
         "role": "assistant",
         "content": response
